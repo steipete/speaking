@@ -25,7 +25,7 @@ Peter has worked with iOS since the inception of the iPhone and regularly gets i
 
 ### Avatar
 
-[My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
+![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
 
 
 ### Slides
