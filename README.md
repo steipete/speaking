@@ -23,14 +23,13 @@ Peter founded and bootstrapped PSPDFKit GmbH in 2011 and has since gradually exp
 
 Peter has worked with iOS since the inception of the iPhone and regularly gets invited to speak at various iOS and mobile conferences throughout the world. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at the Vienna University of Technology, from which he graduated.
 
-### Avatar
-
-![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
-
-
 ### Slides
 
 [Many of my past talks are on SpeakerDeck](https://speakerdeck.com/steipete)
+
+### Avatar
+
+![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
 
 ### Credits
 
