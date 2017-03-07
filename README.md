@@ -19,9 +19,8 @@ Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers
 
 ### Bio
 
-Peter founded and bootstrapped PSPDFKit GmbH in 2011 and has since gradually expanded the company with the goal of providing the highest quality PDF Framework to mobile. While Peter is responsible for the day-to-day management of the team, he never misses the chance to go under PSPDFKit's hood and continue to improve on the original code he wrote back in 2011.
-
-Peter has worked with iOS since the inception of the iPhone and regularly gets invited to speak at various iOS and mobile conferences throughout the world. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at the Vienna University of Technology, from which he graduated.
+>Peter founded and bootstrapped PSPDFKit GmbH in 2011 and has since gradually expanded the company with the goal of providing the highest quality PDF Framework to mobile. While Peter is responsible for the day-to-day management of the team, he never misses the chance to go under PSPDFKit's hood and continue to improve on the original code he wrote back in 2011.
+>Peter has worked with iOS since the inception of the iPhone and regularly gets invited to speak at various iOS and mobile conferences throughout the world. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at the Vienna University of Technology, from which he graduated.
 
 ### Slides
 
