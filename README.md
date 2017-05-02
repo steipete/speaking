@@ -11,10 +11,17 @@ Peter will discuss strategies how code can be written in a way where you can bot
 
 The talk is based on lessons learned while building PSPDFKit for iOS since 2010, yet most parts will be applicable to any language and team.
 
+#### Past
+
 Location | Date | Conference
 ---------|------|------------
-Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/)
+Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/) [Video on YouTube](https://youtu.be/AxF2NuDKxdY)
 Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/)
+
+#### Upcoming
+
+Location | Date | Conference
+---------|------|------------
 Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
 Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
 Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/)
