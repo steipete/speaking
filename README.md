@@ -16,7 +16,7 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 Location | Date | Conference
 ---------|------|------------
 Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
-Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/)
+Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
 
 #### Upcoming
 
