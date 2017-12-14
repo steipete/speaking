@@ -5,11 +5,15 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or send me an email at
 
 ### 2017
 
-#### Building a sustainable codebase: 7 years and counting.
+#### Building a Sustainable Codebase: 7 Years and Counting.
 
 Peter will discuss strategies how code can be written in a way where you can both 'ship it' and have a sustainable product that allows you to move fast and where new people don't run away screaming. At least most of the time :)
 
 The talk is based on lessons learned while building PSPDFKit for iOS since 2010, yet most parts will be applicable to any language and team.
+
+#### Effective Remote Communication
+
+How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 #### Past
 
@@ -17,14 +21,15 @@ Location | Date | Conference
 ---------|------|------------
 Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
 Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
+Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
+Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
+Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 
 #### Upcoming
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
-Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
-Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/)
+Atlanta, US | 12th-14th Mar |  [Teki Con🍍](https://teki-con.com/)
 
 ### Bio
 
