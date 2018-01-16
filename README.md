@@ -3,6 +3,14 @@ I love teaching, sharing and talking at conferences.
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or send me an email at steipete at google dot com if you organize a conference where you'd like me to speak. I love sharing knowledge, [nowadays mostly on our company blog](https://pspdfkit.com/blog/all/) as my day work as CEO of [PSPDFKit](https://pspdfkit.com) is quite time consuming. But asking never hurts :)
 
+### 2018
+
+#### Strategies for Binary Frameworks in Swift
+
+Binary frameworks? Without ABI? And what’s the deal with Modules? Learn about what you can do right now, what other companies are doing, common pitfalls and the future. 
+
+As apps become more complex, there's more need for separation of concerns and potentially even outsourcing specific functionality to other companies _or_ providing such SDKs to other parties. There are many reasons why source code cannot always be shared and it's important to know about the limitations, and ABI stability alone will not fix these problems.
+
 ### 2017
 
 #### Building a Sustainable Codebase: 7 Years and Counting.
@@ -29,6 +37,7 @@ Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video 
 
 Location | Date | Conference
 ---------|------|------------
+Paris, FR | 29th Jan |  [dotSwift 2018](https://www.dotswift.io/)
 Atlanta, US | 12th-14th Mar |  [Teki Con🍍](https://teki-con.com/)
 
 ### Bio
