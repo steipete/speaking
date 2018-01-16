@@ -43,7 +43,7 @@ Location | Date | Conference
 ---------|------|------------
 Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/)
 Atlanta, US | 12th-14th March |  [Teki Con🍍](https://teki-con.com/)
-Vienna, AT | 25th  | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Vienna, AT | 25th April | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 
 ### Bio
 
