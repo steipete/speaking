@@ -11,6 +11,10 @@ Binary frameworks? Without ABI? And what’s the deal with Modules? Learn about 
 
 As apps become more complex, there's more need for separation of concerns and potentially even outsourcing specific functionality to other companies _or_ providing such SDKs to other parties. There are many reasons why source code cannot always be shared and it's important to know about the limitations, and ABI stability alone will not fix these problems.
 
+#### Bootstrapping - The Long Road to Success
+
+As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned.
+
 ### 2017
 
 #### Building a Sustainable Codebase: 7 Years and Counting.
@@ -37,8 +41,9 @@ Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video 
 
 Location | Date | Conference
 ---------|------|------------
-Paris, FR | 29th Jan |  [dotSwift 2018](https://www.dotswift.io/)
-Atlanta, US | 12th-14th Mar |  [Teki Con🍍](https://teki-con.com/)
+Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/)
+Atlanta, US | 12th-14th March |  [Teki Con🍍](https://teki-con.com/)
+Vienna, AT | 25th  | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 
 ### Bio
 
