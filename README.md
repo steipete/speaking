@@ -38,7 +38,7 @@ Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/) ([
 Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
 Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
 Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
-Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) , [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
+Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
 
 #### Upcoming
 
