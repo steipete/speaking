@@ -11,7 +11,7 @@ Binary frameworks? Without ABI? And what’s the deal with Modules? Learn about 
 
 As apps become more complex, there's more need for separation of concerns and potentially even outsourcing specific functionality to other companies _or_ providing such SDKs to other parties. There are many reasons why source code cannot always be shared and it's important to know about the limitations, and ABI stability alone will not fix these problems.
 
-[slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
+[slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
 
 #### Bootstrapping - The Long Road to Success
 
@@ -38,7 +38,7 @@ Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/) ([
 Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
 Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
 Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
-Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) [slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
+Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
 
 #### Upcoming
 
