@@ -45,6 +45,7 @@ Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) ([slides]
 Location | Date | Conference
 ---------|------|------------
 Atlanta, US | 12th-14th March |  [Teki Con🍍](https://teki-con.com/)
+Lugano, CH | 16-17 April | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
 Vienna, AT | 25th April | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 
 ### Bio
