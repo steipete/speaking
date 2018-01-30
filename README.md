@@ -40,6 +40,8 @@ Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/
 Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 Paris, FR | 29th Januuary |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
 
+For a [history of my talks from 2013-2016 see Speaker Deck](https://speakerdeck.com/steipete). Locations included UIKonf, NSConference, NSSpain, AltTechTalks Berlin, Mobile Central Europe, Istanbul Tech Talks, AltConf, WeAreDevelopers, Macoun and many Cocoaheads meetups.
+
 #### Upcoming
 
 Location | Date | Conference
