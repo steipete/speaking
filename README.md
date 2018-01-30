@@ -33,22 +33,34 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
-Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
-Budapest, Hungary | 25th - 28th April | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
-Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
-Berlin, Germany | 27th May | [STICKS & STONES](http://www.sticks-and-stones.com/)
-Logroño, Spain | 13th - 15th Sept | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
-Paris, FR | 29th January |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
+Lausanne, Switzerland | April 24 | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
+Budapest, Hungary | April 25-28 | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
+Vienna, Austria | May 11-12 | [WeAreDevelopers](http://www.wearedevelopers.org/)
+Berlin, Germany | May 27 | [STICKS & STONES](http://www.sticks-and-stones.com/)
+Logroño, Spain | Sept 13-15 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
+Paris, FR | January 29 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
 
-For a [history of my talks from 2013-2016 see Speaker Deck](https://speakerdeck.com/steipete). Locations included UIKonf (Berlin), NSConference (UK), NSSpain (Spain), AltTechTalks (Berlin), Mobile Central Europe (Poland), ⌘R Conf (London), Istanbul Tech Talks (Turkey), AltConf (San Francisco), WeAreDevelopers (Vienna), Macoun (Frankfurt am Main) and many Cocoaheads meetups.
+For a [history of my talks from 2013-2016 see Speaker Deck](https://speakerdeck.com/steipete). Locations include:
+
+* [UIKonf](http://www.uikonf.com/) (Berlin)
+* [NSConference](http://nsconference.com/) (UK)
+* [NSSpain](https://nsspain.com) (Spain)
+* [AltTechTalks](http://www.alt-tech-talks.com/) (Berlin)
+* [Mobile Central Europe](https://2014.mceconf.com/) (Poland), ⌘R Conf (London)
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Turkey)
+* [AltConf](http://altconf.com/) (San Francisco)
+* [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna)
+* [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
+* [Macoun](https://macoun.de/) (Frankfurt am Main)
+* [Cocoaheads](https://cocoaheads.at/) meetups in Vienna and abroad.
 
 #### Upcoming
 
 Location | Date | Conference
 ---------|------|------------
-Atlanta, US | 12th-14th March |  [Teki Con🍍](https://teki-con.com/)
-Lugano, CH | 16-17 April | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
-Vienna, AT | 25th April | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Atlanta, US | March 12-14  |  [Teki Con🍍](https://teki-con.com/)
+Lugano, CH | April 16-17 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
+Vienna, AT | April 25 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 
 ### Bio
 
