@@ -33,12 +33,12 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
-Paris, FR | January 29 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
-Logroño, Spain | Sept 13-15 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
-Berlin, Germany | May 27 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
-Vienna, Austria | May 11-12 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/)
-Budapest, Hungary | April 25-28 2017 | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
-Lausanne, Switzerland | April 24 2017 | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
+Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
+Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
+Berlin, Germany | May 27, 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
+Vienna, Austria | May 11-12, 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/)
+Budapest, Hungary | April 25-28, 2017 | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
+Lausanne, Switzerland | April 24, 2017 | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
 
 Between 2013-2016 I've given talks at following conferences: (list incomplete, PRs welcome!)
 
@@ -59,9 +59,9 @@ Between 2013-2016 I've given talks at following conferences: (list incomplete, P
 
 Location | Date | Conference
 ---------|------|------------
-Atlanta, US | March 12-14 2018 |  [Teki Con🍍](https://teki-con.com/)
-Lugano, CH | April 16-17 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
-Vienna, AT | April 25 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
+Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
+Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 
 ### Bio
 
