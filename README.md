@@ -3,7 +3,7 @@ I love teaching, sharing and talking at conferences.
 
 ![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)
 
-Ping [@steipete](https://twitter.com/steipete) on Twitter or send me an email at steipete at google dot com if you organize a conference where you'd like me to speak. I love sharing knowledge, [nowadays mostly on our company blog](https://pspdfkit.com/blog/all/) as my day work as CEO of [PSPDFKit](https://pspdfkit.com) is quite time consuming. But asking never hurts :)
+Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ### 2018
 
