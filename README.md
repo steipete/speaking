@@ -9,9 +9,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 #### Strategies for Binary Frameworks in Swift
 
-Binary frameworks? Without ABI? And what’s the deal with Modules? Learn about what you can do right now, what other companies are doing, common pitfalls and the future. 
-
-As apps become more complex, there's more need for separation of concerns and potentially even outsourcing specific functionality to other companies _or_ providing such SDKs to other parties. There are many reasons why source code cannot always be shared and it's important to know about the limitations, and ABI stability alone will not fix these problems.
+Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
 
 [slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
 
