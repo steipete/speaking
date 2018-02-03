@@ -42,6 +42,8 @@ Lausanne, Switzerland | April 24, 2017 | [App Builders](https://www.appbuilders.
 
 Between 2013-2016 I've given talks at following conferences: (list incomplete, PRs welcome!)
 
+https://vimeopro.com/steipete/conference-talks-peter-steinberger
+
 * [UIKonf](http://www.uikonf.com/) (Berlin)
 * [NSConference](http://nsconference.com/) (UK)
 * [NSSpain](https://nsspain.com) (Spain)
@@ -54,6 +56,8 @@ Between 2013-2016 I've given talks at following conferences: (list incomplete, P
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
 * [Macoun](https://macoun.de/) (Frankfurt am Main)
 * [Cocoaheads](https://cocoaheads.at/) meetups in Vienna and abroad.
+
+[Video Recordings for some of my talks can be found at my Vimeo.(https://vimeopro.com/steipete/conference-talks-peter-steinberger)
 
 #### Upcoming
 
