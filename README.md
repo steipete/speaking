@@ -57,7 +57,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [Macoun](https://macoun.de/) (Frankfurt am Main)
 * [Cocoaheads](https://cocoaheads.at/) meetups in Vienna and abroad.
 
-[Video Recordings for some of my talks can be found at my Vimeo.(https://vimeopro.com/steipete/conference-talks-peter-steinberger)
+[Video Recordings for some of my talks can be found at my Vimeo.](https://vimeopro.com/steipete/conference-talks-peter-steinberger)
 
 #### Upcoming
 
