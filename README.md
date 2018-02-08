@@ -1,7 +1,7 @@
 # Speaking
 I love teaching, sharing and talking at conferences.
 
-![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)
+[![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
@@ -11,7 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
 
-[slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)
+[slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/) | [video and transcript](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
 #### Bootstrapping - The Long Road to Success
 
@@ -33,7 +33,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
-Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/))
+Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 Berlin, Germany | May 27, 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
 Vienna, Austria | May 11-12, 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/)
