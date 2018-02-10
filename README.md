@@ -44,18 +44,18 @@ Between 2013-2016 I've given talks at following conferences: (list incomplete, P
 
 https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
-* [UIKonf](http://www.uikonf.com/) (Berlin)
-* [NSConference](http://nsconference.com/) (UK)
-* [NSSpain](https://nsspain.com) (Spain)
-* [AltTechTalks](http://www.alt-tech-talks.com/) (Berlin)
+* [UIKonf](http://www.uikonf.com/) (Berlin, DE)
+* [NSConference](http://nsconference.com/) (London, UK)
+* [NSSpain](https://nsspain.com) (Logroño, Spain)
+* [AltTechTalks](http://www.alt-tech-talks.com/) (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland)
-* [⌘R Conf](https://twitter.com/cmdrconf) (London)
-* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Turkey)
-* [AltConf](http://altconf.com/) (San Francisco)
-* [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna)
+* [⌘R Conf](https://twitter.com/cmdrconf) (London, UK)
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
+* [AltConf](http://altconf.com/) (San Francisco, US)
+* [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT)
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
-* [Macoun](https://macoun.de/) (Frankfurt am Main)
-* [Cocoaheads](https://cocoaheads.at/) meetups in Vienna and abroad.
+* [Macoun](https://macoun.de/) (Frankfurt am Main, DE)
+* [Cocoaheads](https://cocoaheads.at/) meetups in Vienna, Germany, Ukraine, Stockholm and abroad.
 
 [Video Recordings for some of my talks can be found at my Vimeo.](https://vimeopro.com/steipete/conference-talks-peter-steinberger)
 
@@ -66,6 +66,8 @@ Location | Date | Conference
 Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
+Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 
 ### Bio
 
