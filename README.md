@@ -82,9 +82,9 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Avatar
 
-![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
-
 ![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)
+
+![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
 
 ![FILE A RADAR](https://github.com/steipete/speaking/blob/master/radar-2018.jpg)
 
