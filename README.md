@@ -29,7 +29,7 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 
 How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
-#### Upcoming
+## Upcoming Talks
 
 Location | Date | Conference
 ---------|------|------------
@@ -39,7 +39,7 @@ Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of 
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 
-#### Past
+## Past Talks
 
 Location | Date | Conference
 ---------|------|------------
