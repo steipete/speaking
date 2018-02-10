@@ -5,7 +5,18 @@ I love teaching, sharing and talking at conferences.
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
-### 2018
+## Upcoming Talks
+
+Location | Date | Conference
+---------|------|------------
+Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
+Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
+Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
+Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
+
+
+### Topics 2018
 
 #### Strategies for Binary Frameworks in Swift
 
@@ -17,7 +28,9 @@ Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? 
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
-### 2017
+(further talks coming soon - I don't like giving the same talk multiple times)
+
+### Topics 2017
 
 #### Building a Sustainable Codebase: 7 Years and Counting.
 
@@ -29,17 +42,7 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 
 How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
-## Upcoming Talks
-
-Location | Date | Conference
----------|------|------------
-Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
-Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
-Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
-Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
-Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
-
-## Past Talks
+### Past Talks
 
 Location | Date | Conference
 ---------|------|------------
