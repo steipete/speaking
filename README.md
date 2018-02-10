@@ -29,6 +29,16 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 
 How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
+#### Upcoming
+
+Location | Date | Conference
+---------|------|------------
+Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
+Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
+Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
+Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
+
 #### Past
 
 Location | Date | Conference
@@ -58,16 +68,6 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [Cocoaheads](https://cocoaheads.at/) meetups in Vienna, Germany, Ukraine, Stockholm and abroad.
 
 [Video Recordings for some of my talks can be found at my Vimeo.](https://vimeopro.com/steipete/conference-talks-peter-steinberger)
-
-#### Upcoming
-
-Location | Date | Conference
----------|------|------------
-Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
-Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
-Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
-Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
-Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 
 ### Bio
 
