@@ -14,6 +14,7 @@ Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.app
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
+Prague, CZ | June 15, 2018   |  [mDevCamp](https://mdevcamp.eu/)
 
 
 ### Topics 2018
