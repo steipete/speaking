@@ -14,18 +14,22 @@ Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.app
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
-Prague, CZ | June 15, 2018   |  [mDevCamp](https://mdevcamp.eu/)
+Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 
 ### Topics 2018
 
-#### Strategies for Binary Frameworks in Swift
+### Hardcore Debugging - Heavy Weapons for Hard Bugs (Teki Con🍍)
+
+Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
+
+#### Strategies for Binary Frameworks in Swift (dotSwift 2018)
 
 Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
 
 [slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/) | [video and transcript](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
-#### Bootstrapping - The Long Road to Success
+#### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
