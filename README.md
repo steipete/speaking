@@ -19,7 +19,7 @@ Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 ### Topics 2018
 
-### Hardcore Debugging - Heavy Weapons for Hard Bugs
+#### Hardcore Debugging - Heavy Weapons for Hard Bugs
 
 Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
 
