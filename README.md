@@ -9,7 +9,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Atlanta, US | March 12-14, 2018 |  [Teki Con🍍](https://teki-con.com/)
+Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/)
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
@@ -19,11 +19,13 @@ Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 ### Topics 2018
 
-### Hardcore Debugging - Heavy Weapons for Hard Bugs (Teki Con🍍)
+### Hardcore Debugging - Heavy Weapons for Hard Bugs
 
 Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
 
-#### Strategies for Binary Frameworks in Swift (dotSwift 2018)
+(Talk first given at Teki Con🍍, Slides/Video coming soon)
+
+#### Strategies for Binary Frameworks in Swift
 
 Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
 
