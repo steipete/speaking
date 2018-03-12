@@ -9,7 +9,6 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/)
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
@@ -19,11 +18,11 @@ Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 ### Topics 2018
 
-#### Hardcore Debugging - Heavy Weapons for Hard Bugs
+#### Smart Debugging - Heavy Weapons for Hard Bugs
 
 Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
 
-(Talk first given at Teki Con🍍, Slides/Video coming soon)
+[slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs)
 
 #### Strategies for Binary Frameworks in Swift
 
@@ -53,6 +52,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
+Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 Berlin, Germany | May 27, 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
