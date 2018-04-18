@@ -7,7 +7,7 @@ I love teaching, sharing and talking at conferences.
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
-## Upcoming Talks
+## Upcoming Talks and Interviews
 
 Location | Date | Conference
 ---------|------|------------
@@ -24,7 +24,7 @@ Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
-[I gave a variation of this talk as Interview at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=1AKy9J8u3OU)
+[I gave a variation of this talk as interview about Entrepreneurship at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=1AKy9J8u3OU)
 
 #### Smart Debugging - Heavy Weapons for Hard Bugs
 
