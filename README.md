@@ -11,7 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
+Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
