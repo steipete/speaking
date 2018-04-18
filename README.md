@@ -3,20 +3,28 @@ I love teaching, sharing and talking at conferences.
 
 [![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
+![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)
+
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ## Upcoming Talks
 
 Location | Date | Conference
 ---------|------|------------
-Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/)
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
+San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 
 ### Topics 2018
+
+#### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
+
+As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
+
+[I gave a variation of this talk as Interview at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=1AKy9J8u3OU)
 
 #### Smart Debugging - Heavy Weapons for Hard Bugs
 
@@ -29,10 +37,6 @@ Debugging can be exciting, but often also very, very frustrating. We explore som
 Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
 
 [slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/) | [video and transcript](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
-
-#### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
-
-As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
 (further talks coming soon - I don't like giving the same talk multiple times)
 
@@ -52,6 +56,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
+Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=1AKy9J8u3OU))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
