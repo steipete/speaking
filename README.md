@@ -24,7 +24,7 @@ Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
-[I gave a variation of this talk as interview about Entrepreneurship at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=1AKy9J8u3OU)
+[I gave a variation of this talk as interview about Entrepreneurship at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
 #### Smart Debugging - Heavy Weapons for Hard Bugs
 
@@ -56,7 +56,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
-Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=1AKy9J8u3OU))
+Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
