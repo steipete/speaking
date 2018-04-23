@@ -3,7 +3,7 @@ I love teaching, sharing and talking at conferences.
 
 [![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
-![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)
+[![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
