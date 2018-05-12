@@ -15,7 +15,6 @@ Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
-Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/)
 
 ### Topics 2018
