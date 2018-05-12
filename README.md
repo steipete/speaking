@@ -11,14 +11,20 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
-
+Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
+New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/)
 
 ### Topics 2018
+
+#### Building Personal Brands for Introverts
+
+Having a successful online identity will open many doors and help you to become a better developer, and person as a whole. I've been working on my professional persona since 2009, and it helped me so tremendously and pushed me forward into places I didn't think I could ever go.
+
+This is the keynote talk for UIKonf for Day 2.
 
 #### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
 
@@ -56,6 +62,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
+Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/)), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
@@ -69,7 +76,7 @@ Between 2013-2016 I've given talks at following conferences: (list incomplete, P
 
 https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
-* [UIKonf](http://www.uikonf.com/) (Berlin, DE)
+* [UIKonf](http://www.uikonf.com/): [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc) (Berlin, DE)
 * [NSConference](http://nsconference.com/) (London, UK)
 * [NSSpain](https://nsspain.com) (Logroño, Spain)
 * [AltTechTalks](http://www.alt-tech-talks.com/) (Berlin, DE)
