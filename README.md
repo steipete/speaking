@@ -80,7 +80,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [UIKonf](http://www.uikonf.com/): [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc) (Berlin, DE)
 * [NSConference](http://nsconference.com/) (London, UK)
 * [NSSpain](https://nsspain.com) (Logroño, Spain)
-* [AltTechTalks](http://www.alt-tech-talks.com/) (Berlin, DE)
+* [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland)
 * [⌘R Conf](https://twitter.com/cmdrconf) (London, UK)
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
@@ -88,7 +88,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT)
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
 * [Macoun](https://macoun.de/) (Frankfurt am Main, DE)
-* [Cocoaheads](https://cocoaheads.at/) meetups in Vienna, Germany, Ukraine, Stockholm and abroad.
+* [Cocoaheads](https://cocoaheads.at/) meetups in Vienna, Germany, Ukraine, [Stockholm](https://speakerdeck.com/steipete/building-aspects) and abroad.
 
 [Video Recordings for some of my talks can be found at my Vimeo.](https://vimeopro.com/steipete/conference-talks-peter-steinberger)
 
