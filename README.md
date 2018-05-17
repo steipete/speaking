@@ -48,7 +48,7 @@ Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? 
 
 [slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift) | [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/) | [video and transcript](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
-(further talks coming soon - I don't like giving the same talk multiple times)
+[Swift Weekly Shoutout](https://twitter.com/swift_weekly/status/963823928694239234), [Most Interesting Videos of dotSwift](https://twitter.com/flawlessappio/status/964526276026478592)
 
 ### Topics 2017
 
