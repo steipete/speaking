@@ -11,7 +11,6 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
@@ -23,7 +22,9 @@ New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018
 
 Having a successful online identity will open many doors and help you to become a better developer, and person as a whole. I've been working on my professional persona since 2009, and it helped me so tremendously and pushed me forward into places I didn't think I could ever go.
 
-This is the keynote talk for UIKonf for Day 2.
+This is the keynote talk for UIKonf for Day 2. [slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s)
+
+Feedback from Attendees: ["highly recommended"](https://twitter.com/cldrr/status/996313380112781312), ["really awesome"](https://twitter.com/christian_beer/status/996312445156249600), ["FANTASTIC talk, funny slides, nice pace"](https://twitter.com/akosma/status/996312176271949825), ["Absolutely inspiring. One of the most important skills in our field."](https://twitter.com/_harishussain/status/996308243956760576), ["Brilliant, powerful, warm, full of empathy"](https://twitter.com/qnoid/status/996308509246574592)
 
 #### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
 
@@ -61,6 +62,7 @@ How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/eff
 
 Location | Date | Conference
 ---------|------|------------
+Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/) [slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s)
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
