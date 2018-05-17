@@ -26,11 +26,13 @@ This is the keynote talk for UIKonf for Day 2. [slides](https://speakerdeck.com/
 
 Feedback from Attendees: ["highly recommended"](https://twitter.com/cldrr/status/996313380112781312), ["really awesome"](https://twitter.com/christian_beer/status/996312445156249600), ["FANTASTIC talk, funny slides, nice pace"](https://twitter.com/akosma/status/996312176271949825), ["Absolutely inspiring. One of the most important skills in our field."](https://twitter.com/_harishussain/status/996308243956760576), ["Brilliant, powerful, warm, full of empathy"](https://twitter.com/qnoid/status/996308509246574592)
 
-#### Bootstrapping - The Long Road to Success (Founder & Investor Talks, Vienna University of Technology)
+#### Bootstrapping - The Long Road to Success (App Builders 2018; Founder & Investor Talks, Vienna University of Technology)
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
 [I gave a variation of this talk as interview about Entrepreneurship at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
+
+Feedback from Attendees: ["Beautiful, eyes opening argument, funny stories"](https://twitter.com/PatrykPeszko/status/986494964631769089), ["Loved it! Detailed personal developer stories like this one are what make these conferences so interesting"](https://twitter.com/JosselinPello/status/986346792114642944), ["Inspiring tech entrepreneurship story"](https://twitter.com/krips/status/986162633958047744), ["Super interesting"](https://twitter.com/_Caro_N/status/986159569477996545), ["FANTASTIC talk, lots of wisdom and funny anecdotes"](https://twitter.com/akosma/status/986165844655968257)
 
 #### Smart Debugging - Heavy Weapons for Hard Bugs
 
