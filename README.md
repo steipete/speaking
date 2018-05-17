@@ -26,7 +26,7 @@ This is the keynote talk for UIKonf for Day 2. [slides](https://speakerdeck.com/
 
 Feedback from Attendees: ["highly recommended"](https://twitter.com/cldrr/status/996313380112781312), ["really awesome"](https://twitter.com/christian_beer/status/996312445156249600), ["FANTASTIC talk, funny slides, nice pace"](https://twitter.com/akosma/status/996312176271949825), ["Absolutely inspiring. One of the most important skills in our field."](https://twitter.com/_harishussain/status/996308243956760576), ["Brilliant, powerful, warm, full of empathy"](https://twitter.com/qnoid/status/996308509246574592)
 
-#### Bootstrapping - The Long Road to Success (App Builders 2018; Founder & Investor Talks, Vienna University of Technology)
+#### Bootstrapping - The Long Road to Success
 
 As part of the Founder & Investor Talks at Vienna University of Technology of 2018 I'll talk about my road from a freelancer to CEO of a succssful, growing international company with a deliberate choice of not taking VC money. This talk is about upsides/downsides and many lessions learned, the hard transition from "builder" to "manager", about teaming up with other people, building a team, core values, and strategies how to make a product work that sells B2B.
 
@@ -39,6 +39,8 @@ Feedback from Attendees: ["Beautiful, eyes opening argument, funny stories"](htt
 Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
 
 [slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs)
+
+Feedback from Attendees: ["really great structured overview"](https://twitter.com/mrackwitz/status/973306220244238337), ["great talk"](https://twitter.com/JaqBaldwin/status/973565519575113728), 
 
 #### Strategies for Binary Frameworks in Swift
 
