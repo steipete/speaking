@@ -22,7 +22,7 @@ New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018
 
 Having a successful online identity will open many doors and help you to become a better developer, and person as a whole. I've been working on my professional persona since 2009, and it helped me so tremendously and pushed me forward into places I didn't think I could ever go.
 
-This is the keynote talk for UIKonf for Day 2. [slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s)
+This is the keynote talk for UIKonf for Day 2. [slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) | [video](https://youtu.be/pmO32o34kgA?t=10m4s)
 
 Feedback from Attendees: ["highly recommended"](https://twitter.com/cldrr/status/996313380112781312), ["really awesome"](https://twitter.com/christian_beer/status/996312445156249600), ["FANTASTIC talk, funny slides, nice pace"](https://twitter.com/akosma/status/996312176271949825), ["Absolutely inspiring. One of the most important skills in our field."](https://twitter.com/_harishussain/status/996308243956760576), ["Brilliant, powerful, warm, full of empathy"](https://twitter.com/qnoid/status/996308509246574592)
 
