@@ -62,7 +62,7 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 
 #### Effective Remote Communication
 
-How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
+How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 ### Past Talks
 
@@ -85,7 +85,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 * [UIKonf](http://www.uikonf.com/): [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc) (Berlin, DE)
 * [NSConference](http://nsconference.com/) (London, UK)
-* [NSSpain](https://nsspain.com) (Logroño, Spain)
+* [NSSpain](https://nsspain.com) 2012 and 2017 - (Logroño, Spain) - How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland) - Practical Runtime Hackery ([video](https://www.youtube.com/watch?v=frgnVhBcIFA))
 * [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
