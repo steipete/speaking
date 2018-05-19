@@ -58,6 +58,8 @@ Peter will discuss strategies how code can be written in a way where you can bot
 
 The talk is based on lessons learned while building PSPDFKit for iOS since 2010, yet most parts will be applicable to any language and team.
 
+[video](https://www.youtube.com/watch?v=wOuth_7xj8Y)
+
 #### Effective Remote Communication
 
 How to Run a Distributed Company. ([slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
@@ -73,7 +75,7 @@ Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/), [video])(https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 Berlin, Germany | May 27, 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
-Vienna, Austria | May 11-12, 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/)
+Vienna, Austria | May 11-12, 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/) ([video](https://www.youtube.com/watch?v=wOuth_7xj8Y))
 Budapest, Hungary | April 25-28, 2017 | [CRAFT Conf](https://craft-conf.com/) ([Video on UStream](http://www.ustream.tv/recorded/102891080))
 Lausanne, Switzerland | April 24, 2017 | [App Builders](https://www.appbuilders.ch/) ([Video on YouTube](https://youtu.be/AxF2NuDKxdY))
 
