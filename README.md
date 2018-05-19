@@ -11,8 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
-San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, just placeholder :)
+San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, but let's meet up!)
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/)
 New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/)
 
@@ -70,6 +69,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/) - Building Personal Brands for Introverts ([slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s))
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
