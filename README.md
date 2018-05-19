@@ -87,7 +87,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 * [UIKonf](http://www.uikonf.com/) 2013 (Berlin, DE) - [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc)
 * [NSConference](http://nsconference.com/) (London, UK)
-* [Top Devs Share Their Reactions to WWDC 2016](https://academy.realm.io/posts/wwdc-2016-developer-perspective/)
+* [Top Devs Share Their Reactions to WWDC 2016](https://academy.realm.io/posts/wwdc-2016-developer-perspective/) (San Francisco, US)
 * [NSSpain](https://nsspain.com) 2012 and 2017 - (Logroño, Spain) - How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland) - Practical Runtime Hackery ([video](https://www.youtube.com/watch?v=frgnVhBcIFA))
