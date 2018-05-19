@@ -88,7 +88,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [NSSpain](https://nsspain.com) (Logroño, Spain)
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland)
-* [⌘R Conf](https://twitter.com/cmdrconf) (London, UK)
+* [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
 * [AltConf](http://altconf.com/) (San Francisco, US)
 * [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT)
