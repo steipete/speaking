@@ -91,7 +91,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland) - Practical Runtime Hackery ([video](https://www.youtube.com/watch?v=frgnVhBcIFA))
 * [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
-* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey) ([highlights video](https://vimeo.com/istanbultechtalks/ittpromo#t=81s))
 * [AltConf](http://altconf.com/) (San Francisco, US)
 * [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT) -  Building a sustainable codebase: 7 years and counting ([video](https://www.youtube.com/watch?v=wOuth_7xj8Y))
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
