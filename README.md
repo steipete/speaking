@@ -87,7 +87,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [NSConference](http://nsconference.com/) (London, UK)
 * [NSSpain](https://nsspain.com) (Logroño, Spain)
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
-* [Mobile Central Europe](https://2014.mceconf.com/) (Poland)
+* [Mobile Central Europe](https://2014.mceconf.com/) (Poland) - Practical Runtime Hackery ([video](https://www.youtube.com/watch?v=frgnVhBcIFA))
 * [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
 * [AltConf](http://altconf.com/) (San Francisco, US)
