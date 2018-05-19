@@ -52,13 +52,13 @@ Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? 
 
 ### Topics 2017
 
-#### Building a Sustainable Codebase: 7 Years and Counting.
+#### Building a Sustainable Codebase: 7 Years and Counting
 
 Peter will discuss strategies how code can be written in a way where you can both 'ship it' and have a sustainable product that allows you to move fast and where new people don't run away screaming. At least most of the time :)
 
 The talk is based on lessons learned while building PSPDFKit for iOS since 2010, yet most parts will be applicable to any language and team.
 
-[video](https://www.youtube.com/watch?v=wOuth_7xj8Y)
+[video @ App Builders Switzerland 2017](https://www.youtube.com/watch?v=AxF2NuDKxdY)
 
 #### Effective Remote Communication
 
@@ -91,7 +91,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey)
 * [AltConf](http://altconf.com/) (San Francisco, US)
-* [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT)
+* [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT) -  Building a sustainable codebase: 7 years and counting ([video](https://www.youtube.com/watch?v=wOuth_7xj8Y))
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
 * [Macoun](https://macoun.de/) (Frankfurt am Main, DE)
 * [Cocoaheads](https://cocoaheads.at/) meetups in Vienna, Germany, Ukraine, [Stockholm](https://speakerdeck.com/steipete/building-aspects) and abroad.
