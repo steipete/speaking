@@ -32,6 +32,8 @@ As part of the Founder & Investor Talks at Vienna University of Technology of 20
 
 [I gave a variation of this talk as interview about Entrepreneurship at App Builders 2018 in Lugano. Watch here.](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
+[A quick summary video from my talk at the Vienna University of Technology from the i²c Founder & Investor Talk series](https://www.youtube.com/watch?v=CwZs64AnJf8)
+
 Feedback from Attendees: ["Beautiful, eyes opening argument, funny stories"](https://twitter.com/PatrykPeszko/status/986494964631769089), ["Loved it! Detailed personal developer stories like this one are what make these conferences so interesting"](https://twitter.com/JosselinPello/status/986346792114642944), ["Inspiring tech entrepreneurship story"](https://twitter.com/krips/status/986162633958047744), ["Super interesting"](https://twitter.com/_Caro_N/status/986159569477996545), ["FANTASTIC talk, lots of wisdom and funny anecdotes"](https://twitter.com/akosma/status/986165844655968257)
 
 #### Smart Debugging - Heavy Weapons for Hard Bugs
