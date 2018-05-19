@@ -92,7 +92,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 * [Mobile Central Europe](https://2014.mceconf.com/) (Poland) - Practical Runtime Hackery ([video](https://www.youtube.com/watch?v=frgnVhBcIFA))
 * [⌘R Conf 2014](https://twitter.com/cmdrconf) (London, UK) - Scaling Your Indie Business ([video](https://www.youtube.com/watch?v=0iQeaoP3Nh8))
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) (Istanbul, Turkey) ([highlights video](https://vimeo.com/istanbultechtalks/ittpromo#t=81s))
-* [AltConf](http://altconf.com/) (San Francisco, US)
+* [AltConf](http://altconf.com/) (San Francisco, US) - [Objective] C++: What Could Possibly Go Wrong? ([video](https://academy.realm.io/posts/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/))
 * [WeAreDevelopers](https://www.wearedevelopers.com/) (Vienna, AT) -  Building a sustainable codebase: 7 years and counting ([video](https://www.youtube.com/watch?v=wOuth_7xj8Y))
 * [Bacon Biz](http://baconbiz.com/) (Philadelphia, US)
 * [Macoun](https://macoun.de/) (Frankfurt am Main, DE)
