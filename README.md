@@ -70,7 +70,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/) ([slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s))
+Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/) - Building Personal Brands for Introverts ([slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://youtu.be/pmO32o34kgA?t=10m4s))
 Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of Technology](https://i2c.ec.tuwien.ac.at/home/events-1/founder-investor-talk-series/) ([event](https://www.eventbrite.com/e/i2c-founder-investor-talk-bootstrapping-the-long-road-to-success-by-peter-steinberger-tickets-43095087567))
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
@@ -85,7 +85,7 @@ Between 2013-2016 I've given talks at following conferences: (list incomplete, P
 
 https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
-* [UIKonf](http://www.uikonf.com/): [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc) (Berlin, DE)
+* [UIKonf](http://www.uikonf.com/) 2013 (Berlin, DE) - [How to bend UIKit to your will.](https://www.youtube.com/watch?v=psPNxC3G_hc)
 * [NSConference](http://nsconference.com/) (London, UK)
 * [NSSpain](https://nsspain.com) 2012 and 2017 - (Logroño, Spain) - How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 * [AltTechTalks Berlin](http://www.alt-tech-talks.com/) - Foundation Collection Classes (Berlin, DE)
