@@ -20,6 +20,8 @@ New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018
 
 The world's biggest gathering of iOS developers organized by Apple is happening just a few days before mDevCamp. Peter will be there and will bring all the hot news we should look at in upcoming weeks and months. The talk featured a first in-depth look at the experience of porting [PDF Viewer](http://pdfviewer.io/) over to Apple's new iOSMac subsystem ("Marzipan"). [See preview research tweet](https://twitter.com/steipete/status/1006292370160316418)
 
+Talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan.
+
 #### Building Personal Brands for Introverts
 
 Having a successful online identity will open many doors and help you to become a better developer, and person as a whole. I've been working on my professional persona since 2009, and it helped me so tremendously and pushed me forward into places I didn't think I could ever go.
@@ -72,7 +74,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
-Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/), 2 Talks: [iOS part of the Keynote](https://twitter.com/hello_paja/status/1007554093924192259) + Highlights of WWDC 2018 & Hacking Marzipan
+Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/), 2 Talks: [iOS part of the Keynote](https://twitter.com/hello_paja/status/1007554093924192259) + [Highlights of WWDC 2018 & Hacking Marzipan](https://twitter.com/mDevCamp/status/1007557562714279936)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, but let's meet up!)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
 Berlin, DE | May 13-16, 2018 | [UIKonf](http://www.uikonf.com/) - Building Personal Brands for Introverts ([slides](https://speakerdeck.com/steipete/building-personal-brands-for-introverts) [video](https://www.youtube.com/watch?v=0c6izSzP-KQ))
