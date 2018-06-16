@@ -11,7 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, AT | July 12, 2018 | Cocoaheads Vienna(http://cocoaheads.at/)
+Vienna, AT | July 12, 2018 | [Cocoaheads Vienna](http://cocoaheads.at/)
 New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/)
 
 ### Topics 2018
