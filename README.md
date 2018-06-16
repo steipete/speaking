@@ -20,7 +20,7 @@ New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018
 
 The world's biggest gathering of iOS developers organized by Apple is happening just a few days before mDevCamp. Peter will be there and will bring all the hot news we should look at in upcoming weeks and months. The talk featured a first in-depth look at the experience of porting [PDF Viewer](http://pdfviewer.io/) over to Apple's new iOSMac subsystem ("Marzipan"). [See preview research tweet](https://twitter.com/steipete/status/1006292370160316418)
 
-Talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan.
+Talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan. [Slides are here.](https://speakerdeck.com/steipete/highlights-of-wwdc-2018-and-hacking-marzipan), Video coming soon.
 
 #### Building Personal Brands for Introverts
 
