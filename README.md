@@ -11,8 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, AT | July 12, 2018 | [Cocoaheads Vienna](http://cocoaheads.at/)
-New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/)
+New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/) - Hacking Marzipan
 
 ### Topics 2018
 
@@ -74,6 +73,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Vienna, AT | July 12, 2018 | [Cocoaheads Vienna](http://cocoaheads.at/), Talk about Marzipan
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/), 2 Talks: [iOS part of the Keynote](https://twitter.com/hello_paja/status/1007554093924192259) + [Highlights of WWDC 2018 & Hacking Marzipan](https://twitter.com/mDevCamp/status/1007557562714279936)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, but let's meet up!)
 Berlin, DE | May 14-16, 2018 | [PDF Developer Days](https://www.pdfa.org/save-the-date-pdf-days-europe-2018-may-14-16/)
