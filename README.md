@@ -11,15 +11,19 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/) - Hacking Marzipan
+(no more planned in 2018)
 
 ### Topics 2018
 
-#### Highlights of WWDC 2018 & Hacking Marzipan
+#### Hacking Marzipan
 
-The world's biggest gathering of iOS developers organized by Apple is happening just a few days before mDevCamp. Peter will be there and will bring all the hot news we should look at in upcoming weeks and months. The talk featured a first in-depth look at the experience of porting [PDF Viewer](http://pdfviewer.io/) over to Apple's new iOSMac subsystem ("Marzipan"). [See preview research tweet](https://twitter.com/steipete/status/1006292370160316418)
+I will show the hacks currently needed to try Apple's new iOSMac platform, codenamed "Marzipan", and walk through what I needed to do to get [PDF Viewer](http://pdfviewer.io/) to run on macOS Mojave. Learn about the history, the current status, the timeline, and how to port your app today. [See preview research tweet](https://twitter.com/steipete/status/1006292370160316418)
 
-Talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan. [Slides](https://speakerdeck.com/steipete/highlights-of-wwdc-2018-and-hacking-marzipan), Video coming soon.
+Early version of this talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan. [Slides](https://speakerdeck.com/steipete/highlights-of-wwdc-2018-and-hacking-marzipan).
+
+Talk completely re-imagined at p[try! Swift New York, Sept 5, 2018](https://www.tryswift.co/events/2018/nyc/#).
+
+Feedback from Attendees: ["Marizpandemic is coming."](https://twitter.com/PaulSolt/status/1037403766318931970), ["Awesome talk – really educational *and* entertaining 👏"](https://twitter.com/irace/status/1037408339444023296), ["excellent black magic"](https://twitter.com/stevenhepting/status/1037408730055364608), ["Having my mind blown (again)"](https://twitter.com/ioveracker/status/1037409108637433856), ["I can’t wait for Marzipan so I can get away with never having to learn AppKit!"](https://twitter.com/EugeneBelinski/status/1037404393769984001), ["words to live by"](https://twitter.com/bertadevant/status/1037405944097980416), ["Having fun with Marzipan"](https://twitter.com/BasThomas/status/1037406147047776258), ["Crash once  return 0, crash twice return it with 1 ... 😂😂😂"](https://twitter.com/lamar3_/status/1037407183682633730), 
 
 #### Building Personal Brands for Introverts
 
@@ -73,6 +77,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/) - Hacking Marzipan ([slides](https://speakerdeck.com/steipete/hacking-marzipan))
 Vienna, AT | July 12, 2018 | [Cocoaheads Vienna](http://cocoaheads.at/), Talk about Marzipan
 Prague, CZ | June 15, 2018   | [mDevCamp](https://mdevcamp.eu/), 2 Talks: [iOS part of the Keynote](https://twitter.com/hello_paja/status/1007554093924192259) + [Highlights of WWDC 2018 & Hacking Marzipan](https://twitter.com/mDevCamp/status/1007557562714279936)
 San Jose, US | June 4-8, 2018 | WWDC 2018 (No talk, but let's meet up!)
