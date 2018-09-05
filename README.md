@@ -11,7 +11,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-(no more planned in 2018)
+(no more planned in 2018, 10 talks are enough :)
 
 ### Topics 2018
 
