@@ -5,13 +5,16 @@ I love teaching, sharing and talking at conferences.
 
 [![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
+[![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-1-small.jpg?raw=true))](https://speakerdeck.com/steipete/hacking-marzipan)
+
+
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ## Upcoming Talks and Interviews
 
 Location | Date | Conference
 ---------|------|------------
-(no more planned in 2018, 10 talks are enough :)
+(currently no more talks planned in 2018)
 
 ### Topics 2018
 
@@ -19,9 +22,9 @@ Location | Date | Conference
 
 I will show the hacks currently needed to try Apple's new iOSMac platform, codenamed "Marzipan", and walk through what I needed to do to get [PDF Viewer](http://pdfviewer.io/) to run on macOS Mojave. Learn about the history, the current status, the timeline, and how to port your app today. [See preview research tweet](https://twitter.com/steipete/status/1006292370160316418)
 
-Early version of this talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan. [Slides](https://speakerdeck.com/steipete/highlights-of-wwdc-2018-and-hacking-marzipan).
+Early version of this talk given [at mDevCamp 2018](https://twitter.com/mDevCamp/status/1007557562714279936), one week after the release of Marzipan.
 
-Talk completely re-imagined at [try! Swift New York, Sept 5, 2018](https://www.tryswift.co/events/2018/nyc/#).
+Talk completely re-imagined at [try! Swift New York, Sept 5, 2018](https://www.tryswift.co/events/2018/nyc/#). [Slides](https://speakerdeck.com/steipete/hacking-marzipan).
 
 Feedback from Attendees: ["Marizpandemic is coming."](https://twitter.com/PaulSolt/status/1037403766318931970), ["Awesome talk – really educational *and* entertaining 👏"](https://twitter.com/irace/status/1037408339444023296), ["excellent black magic"](https://twitter.com/stevenhepting/status/1037408730055364608), ["Having my mind blown (again)"](https://twitter.com/ioveracker/status/1037409108637433856), ["I can’t wait for Marzipan so I can get away with never having to learn AppKit!"](https://twitter.com/EugeneBelinski/status/1037404393769984001), ["words to live by"](https://twitter.com/bertadevant/status/1037405944097980416), ["Having fun with Marzipan"](https://twitter.com/BasThomas/status/1037406147047776258), ["Crash once  return 0, crash twice return it with 1 ... 😂😂😂"](https://twitter.com/lamar3_/status/1037407183682633730), ["educational and entertaining, well done 👍"](https://twitter.com/marwanalany/status/1037416514733961218), ["I would have liked to be there for this one!"](https://twitter.com/jcsorin/status/1037412673288396800)
 
