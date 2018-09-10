@@ -3,7 +3,7 @@ I love teaching, sharing and talking at conferences.
 
 [![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
-[![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true))](https://speakerdeck.com/steipete/hacking-marzipan)
+[![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
 [![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
