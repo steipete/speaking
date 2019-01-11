@@ -49,7 +49,7 @@ Feedback from Attendees: ["Beautiful, eyes opening argument, funny stories"](htt
 
 Debugging can be exciting, but often also very, very frustrating. We explore some lesser-known tools and techniques to find problems faster and make the Compiler mark issues, before they become a crash for the user. The second part is a case study of a particularily interesting bug hunts where I use some unconventional ways to find and resolve the issue. 
 
-[slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs)
+[slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs) [video](http://www.swifttube.co/video/smart-debugging)
 
 Feedback from Attendees: ["really great structured overview"](https://twitter.com/mrackwitz/status/973306220244238337), ["great talk"](https://twitter.com/JaqBaldwin/status/973565519575113728), 
 
