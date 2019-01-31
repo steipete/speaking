@@ -13,7 +13,15 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-(currently no more talks planned in 2018)
+Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/)
+Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/)
+Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
+
+### Topics 2019
+
+### How We Work at PSPDFKit
+
+I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. (Talk TBD)
 
 ### Topics 2018
 
