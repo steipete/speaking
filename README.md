@@ -21,7 +21,7 @@ Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 
 ### How We Work at PSPDFKit
 
-I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. (Talk TBD)
+I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. ([slides](https://speakerdeck.com/steipete/how-we-work-at-pspdfkit))
 
 ### Topics 2018
 
