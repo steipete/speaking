@@ -13,7 +13,8 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/)
+Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/) Talked about How We Work at PSPDFKit
+Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
 Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
