@@ -16,7 +16,7 @@ Location | Date | Conference
 Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/) Talked about How We Work at PSPDFKit
 Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
 Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
-Vienna, Austria  | May 8-10 | [Pioneers](https://pioneers.io/pioneers19#/)
+Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 
