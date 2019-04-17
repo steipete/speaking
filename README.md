@@ -19,6 +19,7 @@ Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) 
 Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
+Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
 Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
 
 ### Topics 2019
