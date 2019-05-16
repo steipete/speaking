@@ -142,6 +142,15 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
 
+### Podcasts
+
+* The raywenderlich.com Podcast: [Peter Steinberger – Podcast S09 E03](https://www.raywenderlich.com/3249277-peter-steinberger-podcast-s09-e03) (May 15, 2019)
+* Swift by Sundell Podcast: ["Long-term code evolution"](https://pspdfkit.com/blog/2018/swift-by-sundell-podcast/)
+
+### Articles
+
+* [PSPDFKit: Wie ein Wiener Startup ohne Investment zum globalen Player wurde](https://www.derbrutkasten.com/pspdfkit-wiener-startup/)
+
 ### Credits
 
 Credits go to [Felix Krause](https://github.com/krausefx/speaking) for the idea to post this here - thanks!
