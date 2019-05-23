@@ -1,6 +1,8 @@
 # Speaking
 I love teaching, sharing and talking at conferences.
 
+![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
+
 [![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
 
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
@@ -13,10 +15,6 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
-Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/) Talked about How We Work at PSPDFKit
-Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
-Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
-Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
@@ -27,6 +25,12 @@ Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
 ### How We Work at PSPDFKit
 
 I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. ([slides](https://speakerdeck.com/steipete/how-we-work-at-pspdfkit))
+
+### Should You Seek VC Money?
+
+We discussed the up- and downsides of taking VC money vs boostrapping a business.
+Many thanks to Natalie, Marcus, Anna for being great panel partners, the whole Pioneers team for being incredibly well organized and Florian for the tough audience question that later lead to an episode in his “Gründer&Zünder” podcast. 
+Pioneers 2019 Photos (c) Emil Chalhoub for Pioneers
 
 ### Topics 2018
 
@@ -90,6 +94,17 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 ### Past Talks
 
+#### 2019
+
+Location | Date | Conference
+---------|------|------------
+Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
+Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
+Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
+Porto, Portugal  | Feb 4 | [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/258522920/) Talked about How We Work at PSPDFKit
+
+#### 2018
+
 Location | Date | Conference
 ---------|------|------------
 New York, US | Sept 4-5, 2018 | [try! Swift](https://www.tryswift.co/events/2018/nyc/) - Hacking Marzipan ([slides](https://speakerdeck.com/steipete/hacking-marzipan) [video](https://www.youtube.com/watch?v=2OuQarA0a7I))
@@ -102,6 +117,11 @@ Vienna, AT | April 25, 2018 | [Founder & Investor Talks at Vienna University of 
 Lugano, CH | April 16-17, 2018 | [App Builders Switzerland 2018](https://www.appbuilders.ch/) ([video](https://www.youtube.com/watch?v=eJ_BdSBxCZk))
 Atlanta, US | March 12-14, 2018 | [Teki Con🍍](https://teki-con.com/) ([slides](https://speakerdeck.com/steipete/smart-debugging-heavy-weapons-for-hard-bugs))
 Paris, FR | January 29, 2018 |  [dotSwift 2018](https://www.dotswift.io/) ([slides](https://speakerdeck.com/steipete/binary-frameworks-in-swift), [blog post](https://pspdfkit.com/blog/2018/binary-frameworks-swift/), [video](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift))
+
+#### 2017 and Earlier
+
+Location | Date | Conference
+---------|------|------------
 Logroño, Spain | Sept 13-15, 2017 | [NSSpain](http://www.nsspain.com/) ([Video on Vimeo](https://vimeo.com/235530912))
 Berlin, Germany | May 27, 2017 | [STICKS & STONES](http://www.sticks-and-stones.com/)
 Vienna, Austria | May 11-12, 2017 | [WeAreDevelopers](http://www.wearedevelopers.org/) ([video](https://www.youtube.com/watch?v=wOuth_7xj8Y))
