@@ -1,6 +1,15 @@
 # Speaking
 I love teaching, sharing and talking at conferences.
 
+## Upcoming Talks and Interviews
+
+Location | Date | Conference
+---------|------|------------
+Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
+Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
+Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
+Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
+
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
 [![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)](https://www.dotconferences.com/2018/01/peter-steinberger-binary-frameworks-in-swift)
@@ -10,15 +19,6 @@ I love teaching, sharing and talking at conferences.
 [![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
-
-## Upcoming Talks and Interviews
-
-Location | Date | Conference
----------|------|------------
-Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
-Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
-Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
-Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
 
 ### Topics 2019
 
