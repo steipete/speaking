@@ -98,6 +98,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+San Jose, California | June 4 | [AltConf](https://twitter.com/MacStadium/status/1136051430073090048) (Talk about CI Infra)
 Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
 Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
