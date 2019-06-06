@@ -164,6 +164,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Podcasts
 
+* Semaphore CI: [Peter Steinberger on his startup journey, quirks of PDF and what’s exciting about WWDC19](https://www.youtube.com/watch?v=tcZPdMKz9xQ)
 * The raywenderlich.com Podcast: [Peter Steinberger – Podcast S09 E03](https://www.raywenderlich.com/3249277-peter-steinberger-podcast-s09-e03) (May 15, 2019)
 * Swift by Sundell Podcast: ["Long-term code evolution"](https://pspdfkit.com/blog/2018/swift-by-sundell-podcast/)
 
