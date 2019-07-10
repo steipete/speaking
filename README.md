@@ -24,7 +24,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### How We Work at PSPDFKit
 
-I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. ([slides](https://speakerdeck.com/steipete/how-we-work-at-pspdfkit))
+I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. ([slides](https://speakerdeck.com/steipete/how-we-work-at-pspdfkit), [blog post](https://pspdfkit.com/blog/2019/how-we-work/))
 
 ### Should You Seek VC Money?
 
