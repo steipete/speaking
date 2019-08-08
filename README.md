@@ -10,6 +10,7 @@ Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
 Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
+Karlsruhe, Germany | Dec 3-4 | [heise MacDev 2019](https://heise-macdev.de/)
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
