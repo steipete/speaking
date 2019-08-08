@@ -5,6 +5,7 @@ I love teaching, sharing and talking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
+Vienna, Austria  | Sept 6  | [WKO Vienna](https://www.wko.at/) 
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
