@@ -22,6 +22,10 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2019
 
+### Shipping a Mac Catalyst app: The good, the bad and the ugly (Upcoming Talk, WIP)
+
+PSPDFKit ported [PDF Viewer](https://pdfviewer.io), a project with over 2 MLOC and lots of UIKit code to the Mac via Catalyst. Having played with "Marzipan" in 2018, the team was able to port their huge app in a relative short timeframe. Learn what you have to do after checking the [X] Mac checkbox, how far Catalyst can be pushed, how it interacts with AppKit, and how to work around the worst bugs. We'll show real code, a selection of r̵a̵d̵a̵r̵ Feedback Assistant items, strategies to keep code branching low, and some design alterations that were necessary to make it feel more at home on the Mac."
+
 ### How We Work at PSPDFKit
 
 I explain our approach to SDK design, long-term product evolvement, feature/proposal development and support. This talk is interesting to developers and product planners alike. ([slides](https://speakerdeck.com/steipete/how-we-work-at-pspdfkit), [blog post](https://pspdfkit.com/blog/2019/how-we-work/))
