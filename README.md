@@ -5,8 +5,6 @@ I love teaching, sharing and talking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
-Vienna, Austria  | Sept 6  | [WKO Vienna](https://www.wko.at/) 
-Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)
 Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/)
 Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
@@ -24,9 +22,12 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2019
 
-### Shipping a Mac Catalyst app: The good, the bad and the ugly (Upcoming Talk, WIP)
+### Shipping a Mac Catalyst app: The good, the bad and the ugly
 
 PSPDFKit ported [PDF Viewer](https://pdfviewer.io), a project with over 2 MLOC and lots of UIKit code to the Mac via Catalyst. Having played with "Marzipan" in 2018, the team was able to port their huge app in a relative short timeframe. Learn what you have to do after checking the [X] Mac checkbox, how far Catalyst can be pushed, how it interacts with AppKit, and how to work around the worst bugs. We'll show real code, a selection of r̵a̵d̵a̵r̵ Feedback Assistant items, strategies to keep code branching low, and some design alterations that were necessary to make it feel more at home on the Mac."
+
+Feedback from Attendees: ["Just learned a whole lot about the real life process for PSPDFKit to ship with Catalyst! Awesome talk by the one and only @steipete !"](https://twitter.com/Sommer/status/1180098843649744905), ["Peter 
+@steipete is talking about not great and yet not terrible experience of shipping a Catalyst app 🚀"](https://twitter.com/Valzevul/status/1180095764619579394), ["“SwiftUI is the Austin Powers of frameworks: cool, if you like to live dangerously.” – @steipete at @mobiconf"](https://twitter.com/twostraws/status/1180089950940864514), ["Can’t wait to see what great things @steipete has to say about this year’s Xcode GM releases 😜"](https://twitter.com/chriscombs76/status/1180086470150955013)
 
 ### How We Work at PSPDFKit
 
@@ -104,6 +105,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
 San Jose, California | June 4 | [AltConf](https://twitter.com/MacStadium/status/1136051430073090048) (Talk about CI Infra)
 Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
