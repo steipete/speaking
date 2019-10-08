@@ -17,6 +17,8 @@ Karlsruhe, Germany | Dec 3-4 | [heise MacDev 2019](https://heise-macdev.de/)
 
 [![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
+[![FrenchKit in Paris, France](https://github.com/steipete/speaking/blob/master/Pictures/frenchkit-2019-1.jpg)
+
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ### Topics 2019
