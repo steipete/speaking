@@ -108,7 +108,7 @@ Location | Date | Conference
 ---------|------|------------
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/)([video](https://www.youtube.com/watch?v=Xo3zGlyxXcI) [slides](https://speakerdeck.com/steipete/shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly))
 Kraków, Poland   | Oct 3-4 | [Mobiconf 2019](http://mobiconf.org/)
-San Jose, California | June 4 | [AltConf](https://twitter.com/MacStadium/status/1136051430073090048) (Talk about CI Infra)
+San Jose, California | June 4 | [AltConf](https://twitter.com/MacStadium/status/1136051430073090048) (Talk about CI Infra) ([video](https://www.youtube.com/watch?v=EHoT_RyriJk&list=PLljEvxF6pJBBSQXDRnQvACukLJGybS17O))
 Vienna, Austria  | May 8-10 | [Pioneers'19](https://pioneers.io/pioneers19#/)
 Budapest, Hungary| April 12 | [iOS Conf Budapest](https://iosconfbudapest.com/) [Cancelled]
 Vienna, Austria  | Feb 21 | [Apple Store Vienna](http://apple.at) Talked about How We Work at PSPDFKit
