@@ -6,6 +6,7 @@ I love teaching, sharing knowledge and speaking at conferences.
 Location | Date | Conference
 ---------|------|------------
 Karlsruhe, Germany | Dec 3-4 | [heise MacDev 2019](https://heise-macdev.de/)
+Brazil | Nov 5-6 | NSBrazil 2020
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
