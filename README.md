@@ -163,7 +163,8 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Bio
 
->Peter founded and bootstrapped PSPDFKit in 2011, and has since expanded the company with the goal of providing the highest quality PDF framework for all platforms. While Peter is responsible for the day-to-day management of the team, he never misses the chance to go under PSPDFKit’s hood and get his hands dirty with writing and debugging code. Peter has worked with iOS since the inception of the iPhone, and is regularly invited to speak at conferences around the world. He also organizes [Cocoaheads](https://twitter.com/cocoaheads_at), a meetup for developers that work with Apple platforms. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology.
+>Peter founded and bootstrapped PSPDFKit in 2011 and since then grew the company to 50 employees, with the goal of providing the highest quality PDF framework for all platforms. He stepped down as CEO in late 2019 and moved to a research role to focus on new products and technologies. His latest mission was becoming an expert in Apple's Project Catalyst. 
+> Peter has worked with iOS since the inception of the iPhone, and is regularly invited to speak at conferences around the world. He also organizes [Cocoaheads](https://twitter.com/cocoaheads_at), a meetup for developers that work with Apple platforms. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology.
 
 ### Slides
 
