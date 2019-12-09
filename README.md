@@ -5,7 +5,6 @@ I love teaching, sharing knowledge and speaking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
-Karlsruhe, Germany | Dec 3-4 | [heise MacDev 2019](https://heise-macdev.de/)
 Brazil | Nov 5-6 2020 | NSBrazil 2020
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
@@ -106,6 +105,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Karlsruhe, Germany | Dec 3-4 | [heise MacDev 2019](https://heise-macdev.de/)
 Buenos Aires, Argentina | Nov 28-29 | [Swiftable](https://swiftable.io/)
 Berlin, Germany  | Nov 12-13 | [{codemotion} Berlin](https://events.codemotion.com/conferences/berlin/2019/) (Cancelled)
 Paris, France    | Oct 8-9 | [FrenchKit](https://frenchkit.fr/) ([video](https://www.youtube.com/watch?v=Xo3zGlyxXcI) [slides](https://speakerdeck.com/steipete/shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly))
