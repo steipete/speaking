@@ -5,6 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
+Lugano, Switzerland | May 11-12 2020 | App Builders 2020
 Brazil | Nov 5-6 2020 | NSBrazil 2020
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
