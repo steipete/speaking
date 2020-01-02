@@ -5,6 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
+Berlin, Germany | April 27-29 | PDF Days Europe
 Lugano, Switzerland | May 11-12 | App Builders
 San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
 Aveiro, Portugal | June 25th - 26th | SwiftAveiro
