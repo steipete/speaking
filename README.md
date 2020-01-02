@@ -1,12 +1,14 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences.
 
-## Upcoming Talks and Interviews
+## Upcoming Talks and Interviews in 2020
 
 Location | Date | Conference
 ---------|------|------------
-Lugano, Switzerland | May 11-12 2020 | App Builders 2020
-Brazil | Nov 5-6 2020 | NSBrazil 2020
+Lugano, Switzerland | May 11-12 | App Builders
+San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
+Aveiro, Portugal | June 25th - 26th | SwiftAveiro
+Brazil | Nov 5-6 2020 | NSBrazil
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
