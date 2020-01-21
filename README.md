@@ -23,6 +23,16 @@ Brazil | Nov 5-6 2020 | NSBrazil
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
+### Topics 2020
+
+### Contributing to PDFium (exclusive for PDF Days 2020 Berlin)
+
+Learn how PSPDFKit builds on and improves world’s most popular PDF library.
+
+Companies like Google, Microsoft, Opera, LG and Dropbox are working together to commoditize PDF render technology. The future is open source, fast and fuzzed/well-tested.
+
+We walk you through the many powerful features of PDFium, where it can be used, and how you can contribute to the most used PDF library in the world.
+
 ### Topics 2019
 
 ### Shipping a Mac Catalyst app: The good, the bad and the ugly
