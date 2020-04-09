@@ -5,10 +5,11 @@ I love teaching, sharing knowledge and speaking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, Germany | April 27-29 | PDF Days Europe
-Lugano, Switzerland | May 11-12 | App Builders
+Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
+Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
+Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19)
 San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
-Aveiro, Portugal | June 25th - 26th | SwiftAveiro
+Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
 Brazil | Nov 5-6 2020 | NSBrazil
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
@@ -24,6 +25,12 @@ Brazil | Nov 5-6 2020 | NSBrazil
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ### Topics 2020
+
+### Supporting Pointer Interactions in iPadOS 13.4 
+
+With the just released iPadOS 13.4, Apple added support for trackpad and mouse devices! Watch me life-coding support for pointer interactions into a large project using Xcode 11.4 and Swift. You'll learn how the API works, how you can create bezier paths in-code (and what tools are there to help), and how to structure the handler in a way that is easy to read and extensive. We'll also discuss a few tricks and hacks how to make progress faster, how to make buttons react to events, and official and unofficual ways how to differentiate between finger touches and pointer taps.
+
+This talk is based on my blog post [https://pspdfkit.com/blog/2020/supporting-pointer-interactions/](https://pspdfkit.com/blog/2020/supporting-pointer-interactions/) but is much more hands-on and shows a few tricks we learned since then.
 
 ### Contributing to PDFium (exclusive for PDF Days 2020 Berlin)
 
