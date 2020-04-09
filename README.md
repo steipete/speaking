@@ -5,13 +5,14 @@ I love teaching, sharing knowledge and speaking at conferences.
 
 Location | Date | Conference
 ---------|------|------------
-Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
 Remote | April XX | WeAreDevelopers Live (TBA)
 Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
 Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19)
 San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
 Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
 Brazil | Nov 5-6 2020 | NSBrazil
+
+![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-2.jpg)
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
@@ -122,6 +123,12 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 ### Past Talks
+
+#### 2020
+
+Location | Date | Conference
+---------|------|------------
+Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
 
 #### 2019
 
