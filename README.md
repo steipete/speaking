@@ -6,6 +6,7 @@ I love teaching, sharing knowledge and speaking at conferences.
 Location | Date | Conference
 ---------|------|------------
 Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
+Remote | April XX | WeAreDevelopers Live (TBA)
 Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
 Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19)
 San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
