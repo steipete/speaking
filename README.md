@@ -20,10 +20,6 @@ Brazil | Nov 5-6 2020 | NSBrazil
 
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
-[![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
-
-[![FrenchKit in Paris, France](https://github.com/steipete/speaking/blob/master/Pictures/frenchkit-2019-1-small.jpg)](https://speakerdeck.com/steipete/shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly)
-
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ### Topics 2020
@@ -204,6 +200,14 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 ![dotSwift 2018 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/dotSwift2018-4.jpg)
 
 ![My avatar image is in this repo.](https://github.com/steipete/speaking/blob/master/steipete-avatar-2016%2B.jpg)
+
+### Pictures
+
+More Pictures see the pitures folder in this repo.
+
+[![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
+
+[![FrenchKit in Paris, France](https://github.com/steipete/speaking/blob/master/Pictures/frenchkit-2019-1-small.jpg)](https://speakerdeck.com/steipete/shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly)
 
 ### Podcasts
 
