@@ -26,7 +26,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Supporting Pointer Interactions in iPadOS 13.4 
 
-With the just released iPadOS 13.4, Apple added support for trackpad and mouse devices! Watch me life-coding support for pointer interactions into a large project using Xcode 11.4 and Swift. You'll learn how the API works, how you can create bezier paths in-code (and what tools are there to help), and how to structure the handler in a way that is easy to read and extensive. We'll also discuss a few tricks and hacks how to make progress faster, how to make buttons react to events, and official and unofficual ways how to differentiate between finger touches and pointer taps.
+With the just released iPadOS 13.4, Apple added support for trackpad and mouse devices! Watch me life-coding support for pointer interactions into a large project ([PSPDFKit](https://pspdfkit.com/), a PDF SDK) using Xcode 11.4 and Swift. You'll learn how the API works, how you can create bezier paths in-code (and what tools are there to help), and how to structure the handler in a way that is easy to read and extensive. We'll also discuss a few tricks and hacks how to make progress faster, how to make buttons react to events, and official and unofficual ways how to differentiate between finger touches and pointer taps.
 
 This talk is based on my blog post [https://pspdfkit.com/blog/2020/supporting-pointer-interactions/](https://pspdfkit.com/blog/2020/supporting-pointer-interactions/) but is much more hands-on and shows a few tricks we learned since then.
 
