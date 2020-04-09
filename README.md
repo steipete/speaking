@@ -12,7 +12,7 @@ San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
 Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
 Brazil | Nov 5-6 2020 | NSBrazil
 
-![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-2.jpg)
+![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
 ![Pioneers 2019 in Vienna](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/pioneers-2019-6.jpg)
 
@@ -125,6 +125,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 Location | Date | Conference
 ---------|------|------------
 Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
+New York, US | April | Spotify Engineering Conference (Cancelled, COVID-19)
 
 #### 2019
 
