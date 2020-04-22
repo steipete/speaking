@@ -31,6 +31,8 @@ This talk is based on my blog post [https://pspdfkit.com/blog/2020/supporting-po
 
 Feedback from Attendees: (Via ClickMeeting Platform) Tiago Mergulhão: OMG! SO COOL!, Christian Beer: One more thing! Thank you very much, Peter! That was really awesome!!, Akshat Patel: hahaha now THIS looks like real code, Stefan Steinbauer: Thanks for the ride, Nico du Plessis: Awesome session!, Liviu C: haha. nice tweak!, Mostafa: Thank you 👏, J.B.: *Good stuff, Peter, Mosbah: That was really cool thx !, Joao Pereira: great stuff! Thanks Peter & the organizers, Alexander: Peter, thank you very much! I'm always amazed at how you instantly manage to support new things, very grateful for doing pioneer work. By the way, besides this webinar and the aforementioned blog post by Peter I can highly recommend Apple's HIG article covering pointers in user interaction chapter and pretty decent sample code "Integrating Pointer Interactions into Your iPad App"., Gerry (WeAreDevelopers): Great session, thank you Peter!, Tamas Jaroli: Thank you Peter, this was amazing!, Eben: Pete that was epic!, Sead: Thanks Peter, it was awesome!
 
+[video](https://www.youtube.com/watch?v=Yt3xVRYhDek&feature=emb_title)
+
 ### Contributing to PDFium (exclusive for PDF Days 2020 Berlin)
 
 Learn how PSPDFKit builds on and improves world’s most popular PDF library.
