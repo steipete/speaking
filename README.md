@@ -23,6 +23,10 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2020
 
+### UI Testing over the years
+
+UI testing has been around for years, but it never really caught on. Join me on a trip of different frameworks, strategies and tools to find a solution that fits your app. This talk was made for App Builders 2020.
+
 ### Supporting Pointer Interactions in iPadOS 13.4 
 
 With the just released iPadOS 13.4, Apple added support for trackpad and mouse devices! Watch me life-coding support for pointer interactions into a large project ([PSPDFKit](https://pspdfkit.com/), a PDF SDK) using Xcode 11.4 and Swift. You'll learn how the API works, how you can create bezier paths in-code (and what tools are there to help), and how to structure the handler in a way that is easy to read and extensive. We'll also discuss a few tricks and hacks how to make progress faster, how to make buttons react to events, and official and unofficual ways how to differentiate between finger touches and pointer taps.
