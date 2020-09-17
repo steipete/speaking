@@ -21,7 +21,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Wrapping a Complex View Controller in SwiftUI
 
-Follow me along as I take the main view controller of PSPDFKit and wrap it into a SwiftUI view, add custom configuration properties, make methods on the view controller accessible via Combine publishers, use a Coordinator to wrap the delegate into modern lamdas and call pre-built popovers from a SwiftUI Navigation Bar.
+Follow me along as I take the main view controller of PSPDFKit and wrap it into a SwiftUI view, add custom configuration properties, make methods on the view controller accessible via Combine publishers, use a Coordinator to wrap the delegate into modern closures and call pre-built popovers from a SwiftUI Navigation Bar.
 
 This will be a Xcode coding session where I explain the concepts as I'm building the component. We look at tradeoffs with iOS 13 vs iOS 14 compatibility, some tricks to work around bugs, SwiftUI lifetime, considerations for Combine cancellables and much more.
 
