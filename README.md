@@ -5,11 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
-Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19)
-San Francisco, US | June 8-12/15-19 | WWDC (Placeholder, just attending)
-Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
-Brazil | Nov 5-6 2020 | NSBrazil
+Remote | Oct 1-2 2020 | Swift Heroes Digital 2020
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -137,7 +133,10 @@ Location | Date | Conference
 Paris, France | April 2 | [Swift Paris Online #2](https://www.meetup.com/swiftparis/events/269742426/)
 New York, US | April X | Spotify Engineering Conference (Cancelled, COVID-19)
 Remote | April 15 | [WeAreDevelopers Live](https://twitter.com/WeAreDevs/status/1250050045921177602)
-
+Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
+Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19) ([video](https://www.youtube.com/watch?v=LpHah3oQeyg))
+Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
+Brazil | Nov 5-6 2020 | NSBrazil (Cancelled COVID-19)
 
 #### 2019
 
@@ -201,7 +200,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Bio
 
->Peter founded and bootstrapped PSPDFKit in 2011 and since then grew the company to 50 employees, with the goal of providing the highest quality PDF framework for all platforms. He stepped down as CEO in late 2019 and moved to a research role to focus on new products and technologies. His latest mission was becoming an expert in Apple's Project Catalyst. 
+>Peter founded and bootstrapped PSPDFKit in 2011 and since then grew the company to 50 employees, with the goal of providing the highest quality PDF framework for all platforms. He stepped down as CEO in late 2019 and moved to a research role to focus on new products and technologies. His latest mission was becoming an expert in Apple's SwiftUI. 
 > Peter has worked with iOS since the inception of the iPhone, and is regularly invited to speak at conferences around the world. He also organizes [Cocoaheads](https://twitter.com/cocoaheads_at), a meetup for developers that work with Apple platforms. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology.
 
 ### Slides
