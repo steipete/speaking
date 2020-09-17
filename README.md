@@ -19,6 +19,12 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2020
 
+### Wrapping a Complex View Controller in SwiftUI
+
+Follow me along as I take the main view controller of PSPDFKit and wrap it into a SwiftUI view, add custom configuration properties, make methods on the view controller accessible via Combine publishers, use a Coordinator to wrap the delegate into modern lamdas and call pre-built popovers from a SwiftUI Navigation Bar.
+
+This will be a Xcode coding session where I explain the concepts as I'm building the component. We look at tradeoffs with iOS 13 vs iOS 14 compatibility, some tricks to work around bugs, SwiftUI lifetime, considerations for Combine cancellables and much more.
+
 ### UI Testing over the years
 
 UI testing has been around since iOS 4, but it never really caught on. I've asked various members of the iOS community about their experience and tips. Join me on a trip of different frameworks, strategies and tools to find a solution that fits your app. You will hear about KIF, EarlGrey, XCU and various open source projects to help you write better tests, to parallelize them or even to remind you to write tests. "
