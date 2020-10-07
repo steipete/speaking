@@ -5,7 +5,9 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Remote | Oct 1-2 2020 | Swift Heroes Digital 2020
+TBD | | 
+
+(2020 is a tricky year because of Covid)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -19,11 +21,13 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2020
 
-### Wrapping a Complex View Controller in SwiftUI
+### Building a PDF Viewer in 40 Minutes (aka Wrapping a Complex View Controller in SwiftUI)
 
-Follow me along as I take the main view controller of PSPDFKit and wrap it into a SwiftUI view, add custom configuration properties, make methods on the view controller accessible via Combine publishers, use a Coordinator to wrap the delegate into modern closures and call pre-built popovers from a SwiftUI Navigation Bar.
+Follow me along as I take the main view controller of PSPDFKit and wrap it into a SwiftUI view, add custom configuration properties, make methods on the view controller accessible via Combine publishers, use a Coordinator to wrap the delegate into modern closures and call pre-built popovers from a SwiftUI Navigation Bar. This will be a Xcode coding session where I explain the concepts as I'm building the component. We look at tradeoffs with iOS 13 vs iOS 14 compatibility, some tricks to work around bugs, SwiftUI lifetime, considerations for Combine cancellables and much more.
 
-This will be a Xcode coding session where I explain the concepts as I'm building the component. We look at tradeoffs with iOS 13 vs iOS 14 compatibility, some tricks to work around bugs, SwiftUI lifetime, considerations for Combine cancellables and much more.
+Feedback via Brella: Tim Oliver: Oh man. Damn that's impressive Peter!, Cristina De: Thank you very much Peter! 👏🏻👏🏻👏🏻👏🏻👏🏻, Moein Barzegaran: Thanks Peter!, Sammy Smallman: Thanks Peter, that was awesome!, Nissi Miranda: Very good! 😄, Fernando Bunn: Really awesome talk Peter.
+
+This talk was hand-crafted and recorded for Swift Heroes Digital 2020. [video](https://vimeo.com/463560058)
 
 ### UI Testing over the years
 
@@ -143,6 +147,7 @@ Berlin, Germany | April 27-29 | PDF Days Europe (Cancelled COVID-19)
 Lugano, Switzerland | May 11-12 | App Builders (Remote, COVID-19) ([video](https://www.youtube.com/watch?v=LpHah3oQeyg))
 Aveiro, Portugal | June 25th - 26th | SwiftAveiro (Cancelled COVID-19)
 Brazil | Nov 5-6 2020 | NSBrazil (Cancelled COVID-19)
+Remote | Oct 1-2 2020 | Swift Heroes Digital 2020 ([video](https://vimeo.com/463560058))
 
 #### 2019
 
