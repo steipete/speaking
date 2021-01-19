@@ -1,13 +1,13 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com).
 
-## Upcoming Talks and Interviews in 2020
+## Upcoming Talks and Interviews in 2021
 
 Location | Date | Conference
 ---------|------|------------
-TBD | | 
+Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG
 
-(2020 is a tricky year because of Covid)
+(2020 was a difficult year because of Covid)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -18,6 +18,14 @@ TBD | |
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
+
+### Topics 2021
+
+### Continuous Integration for the Rest of Us
+
+Every project benefits from a good Continuous Integration & Delivery system. While there's countless articles on the latest Swift or SwiftUI tricks, there's surprisingly little talk about strategies around CI & CD. You will find case studies by industry giants like Shopify or Uber that talk about their solutions, however their CI/CD team in many cases is larger than some middle-sized companies.
+
+At PSPDFKit, we don't have a separate team for CI/CD, our engineering team also owns testing and delivery. In this talk I'll give you an overview of the options today, and will explore what path we took for fast, automated testing in a multi-platform environment. We'll also talk about money, because running cost is an important topic for bootstrapped companies. Lastly, we'll look at options around configuration management tools to automate machine setups.
 
 ### Topics 2020
 
