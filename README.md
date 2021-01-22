@@ -27,6 +27,8 @@ Every project benefits from a good Continuous Integration & Delivery system. Whi
 
 At PSPDFKit, we don't have a separate team for CI/CD, our engineering team also owns testing and delivery. In this talk I'll give you an overview of the options today, and will explore what path we took for fast, automated testing in a multi-platform environment. We'll also talk about money, because running cost is an important topic for bootstrapped companies. Lastly, we'll look at options around configuration management tools to automate machine setups.
 
+[slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us)
+
 ### Topics 2020
 
 ### Building a PDF Viewer in 40 Minutes (aka Wrapping a Complex View Controller in SwiftUI)
