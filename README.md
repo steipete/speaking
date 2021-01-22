@@ -29,6 +29,8 @@ At PSPDFKit, we don't have a separate team for CI/CD, our engineering team also 
 
 This talk was made for iOS Conf SG 2021. [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
 
+Feedback from Attendees: "thank you. great talk." "Peter! I'm impressed by your optimism :)" "Super cool the script about removing default apps, adding that to my dot files!" "Honestly installing Xcode on just one machine does it for me!"
+
 ### Topics 2020
 
 ### Building a PDF Viewer in 40 Minutes (aka Wrapping a Complex View Controller in SwiftUI)
