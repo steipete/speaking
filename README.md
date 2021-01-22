@@ -29,7 +29,7 @@ At PSPDFKit, we don't have a separate team for CI/CD, our engineering team also 
 
 This talk was made for iOS Conf SG 2021. [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
 
-Feedback from Attendees via Zoom: "thank you. great talk." "Peter! I'm impressed by your optimism :)" "Super cool the script about removing default apps, adding that to my dot files!" "Honestly installing Xcode on just one machine does it for me!"
+Feedback from Attendees via Zoom: "thank you. great talk." "Peter! I'm impressed by your optimism :)" "Super cool the script about removing default apps, adding that to my dot files!" "Honestly installing Xcode on just one machine does it for me!" ["Thank you Peter, amazing talk 👏🏻👏🏻👏🏻"](https://twitter.com/zntfdr/status/1352569199705513985?s=21)
 
 ### Topics 2020
 
