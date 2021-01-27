@@ -5,9 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG
-
-(2020 was a difficult year because of Covid)
+Remote | April 16 2021 | Swift Heroes 2021
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -147,6 +145,12 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 ### Past Talks
+
+#### 2021
+
+Location | Date | Conference
+---------|------|------------
+Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG
 
 #### 2020
 
