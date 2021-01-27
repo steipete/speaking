@@ -5,7 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Remote | April 16 2021 | Swift Heroes 2021
+Remote | April 16 2021 | Swift Heroes Digital 2021
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -18,6 +18,12 @@ Remote | April 16 2021 | Swift Heroes 2021
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
 ### Topics 2021
+
+### Evolving existing Projects with SwiftUI
+
+We're looking into strategically evolving existing older projects (that still contain Objective-C) with SwiftUI. We explore different strategies to support down to iOS 12 and how to work around shortcomings of SwiftUI 1.0. (WIP - TALK WILL EVOLVE)
+
+This talk will be made speficically for Swift Heroes Digital 2021
 
 ### Continuous Integration for the Rest of Us
 
