@@ -150,7 +150,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
-Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG
+Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
 
 #### 2020
 
