@@ -21,7 +21,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### SwiftUI In Production
 
-With the 10.3 release of our iOS PDF SDK, we’re shipping SwiftUI in production. This is a big milestone for us, and an even more interesting one, as our product still supports iOS 12. In this talk I'll explain how we built this feature while also keep things working for iOS 12, and why we picker SwiftUI for it.
+With the 10.3 release of our iOS PDF SDK, we’re shipping SwiftUI in production. This is a big milestone for us, and an even more interesting one, as our product still supports iOS 12. In this talk I'll explain how we built this feature while also keep things working for iOS 12, and why we picked SwiftUI for it.
 
 This talk has been made for Swift Heroes 2021. (Video/Blog Post/Speakerdeck coming soon)
 
