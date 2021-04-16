@@ -27,8 +27,6 @@ Feedback: "Wow, nice talk Peter! Thanks a lot for setting it up! The keyboard av
 
 This talk has been made for Swift Heroes 2021. [slides](https://speakerdeck.com/steipete/swiftui-in-production) [video](https://vimeo.com/536908653)
 
-https://speakerdeck.com/steipete/swiftui-in-production
-
 ### Continuous Integration for the Rest of Us
 
 Every project benefits from a good Continuous Integration & Delivery system. While there's countless articles on the latest Swift or SwiftUI tricks, there's surprisingly little talk about strategies around CI & CD. You will find case studies by industry giants like Shopify or Uber that talk about their solutions, however their CI/CD team in many cases is larger than some middle-sized companies.
