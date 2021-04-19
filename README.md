@@ -5,7 +5,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Remote | April 16 2021 | Swift Heroes Digital 2021
+Remote | April 29, 2021 | WeAreDevelopers Live – iOS Developer Day
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -159,6 +159,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 Location | Date | Conference
 ---------|------|------------
 Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
+Remote | April 16 2021 | Swift Heroes Digital 2021
 
 #### 2020
 
