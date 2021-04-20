@@ -6,6 +6,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 Location | Date | Conference
 ---------|------|------------
 Remote | April 29, 2021 | WeAreDevelopers Live – iOS Developer Day
+Hamburg | Octiber 28 - 29, 2021 | code.talks Hamburg
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
