@@ -5,7 +5,6 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Remote | April 29, 2021 | WeAreDevelopers Live – iOS Developer Day
 Hamburg | Octiber 28 - 29, 2021 | code.talks Hamburg
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
@@ -24,9 +23,10 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 With the 10.3 release of our iOS PDF SDK, we’re shipping SwiftUI in production. This is a big milestone for us, and an even more interesting one, as our product still supports iOS 12. In this talk I'll explain how we built this feature while also keep things working for iOS 12, and why we picked SwiftUI for it.
 
-Feedback: "Wow, nice talk Peter! Thanks a lot for setting it up! The keyboard avoidance trick was really cool to see 🚀" [@kkostov](https://twitter.com/kkostov), [@steipete Absolutely fantastic presentation on SwiftUI Peter! We also saw a lot of those SwiftUI 1.0 issues in the app we’re building at work, so it was really great to see it wasn’t just us! 🤣 Thanks so much for that!](https://twitter.com/timoliverau/status/1382970288099315715?s=21), [After seeing @steipete talk this morning I feel less sad about the bugs in Mocka. Pure SwiftUI is hell 🤷](https://twitter.com/inkedengineer/status/1382966618972643328?s=21), [Amazing @steipete SwiftUI talk at @swiftheroes_it, what a chain of hacks are being shown. Mind = .blown](https://twitter.com/minuscorp/status/1382965143093575682?s=21), [Congrats on your talk @steipete @swiftheroes_it. Thanks for sharing your experiences. Makes me we wanna pull the breaks on adopting SwiftUI a bit until we can drop iOS13 on our projects.](https://twitter.com/objective_cesar/status/1382971429201793028?s=21), [that was a great talk, as usual from @steipete :)](https://twitter.com/merowing_/status/1382983679178330113?s=21)
+Feedback: "Wow, nice talk Peter! Thanks a lot for setting it up! The keyboard avoidance trick was really cool to see 🚀" [@kkostov](https://twitter.com/kkostov), [@steipete Absolutely fantastic presentation on SwiftUI Peter! We also saw a lot of those SwiftUI 1.0 issues in the app we’re building at work, so it was really great to see it wasn’t just us! 🤣 Thanks so much for that!](https://twitter.com/timoliverau/status/1382970288099315715?s=21), [After seeing @steipete talk this morning I feel less sad about the bugs in Mocka. Pure SwiftUI is hell 🤷](https://twitter.com/inkedengineer/status/1382966618972643328?s=21), [Amazing @steipete SwiftUI talk at @swiftheroes_it, what a chain of hacks are being shown. Mind = .blown](https://twitter.com/minuscorp/status/1382965143093575682?s=21), [Congrats on your talk @steipete @swiftheroes_it. Thanks for sharing your experiences. Makes me we wanna pull the breaks on adopting SwiftUI a bit until we can drop iOS13 on our projects.](https://twitter.com/objective_cesar/status/1382971429201793028?s=21), [that was a great talk, as usual from @steipete :)](https://twitter.com/merowing_/status/1382983679178330113?s=21), ["Really enjoyed your talk @steipete some great tips on mixing UIKit and SwiftUI"](https://twitter.com/JamesSwiney/status/1387565154833813504)
 
 This talk has been made for Swift Heroes 2021. [slides](https://speakerdeck.com/steipete/swiftui-in-production) [video](https://vimeo.com/536908653)
+A revised version of this talk has been presented at [WeAreDevelopers Live 2021](https://twitter.com/WeAreDevs/status/1387383849441710080)
 
 ### Continuous Integration for the Rest of Us
 
@@ -161,6 +161,7 @@ Location | Date | Conference
 ---------|------|------------
 Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
 Remote | April 16 2021 | Swift Heroes Digital 2021
+Remote | April 29, 2021 | WeAreDevelopers Live – iOS Developer Day
 
 #### 2020
 
