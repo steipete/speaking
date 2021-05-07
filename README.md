@@ -21,7 +21,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2021
 
-## Mobile at a Crossroads: The Declarative UI App Revolution
+### Mobile at a Crossroads: The Declarative UI App Revolution (WIP)
 
 There’s a shift happening in how mobile apps are built, again. While a few years ago we’ve seen the move towards more expressive programming languages (Swift and Kotlin), we now see the shift from imperative to declarative UI frameworks. Both Apple and Google are pushing this new direction hard, and in many ways SwiftUI and Jetpack Compose are extremely similar, both in terms of design and complete-ness. Why does this happen now? Why is it important? How do Flutter or Kotlin Multi-Platform play into that? This is an upcoming talk I'm currently brainstorming for. Let me know if this topic sounds interesting for your conference!
 
