@@ -6,6 +6,7 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 Location | Date | Conference
 ---------|------|------------
 Remote | May 27th, 2021 | mDevMeet 2021
+Remote | June 28 - July 1st | WeAreDevelopers World Congress 2021
 Hamburg | October 28 - 29, 2021 | code.talks Hamburg
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
