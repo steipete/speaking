@@ -23,7 +23,8 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Mobile at a Crossroads: The Declarative UI App Revolution (WIP)
 
-There’s a shift happening in how mobile apps are built, again. While a few years ago we’ve seen the move towards more expressive programming languages (Swift and Kotlin), we now see the shift from imperative to declarative UI frameworks. Both Apple and Google are pushing this new direction hard, and in many ways SwiftUI and Jetpack Compose are extremely similar, both in terms of design and complete-ness. Why does this happen now? Why is it important? How do Flutter or Kotlin Multi-Platform play into that? This is an upcoming talk I'm currently brainstorming for. Let me know if this topic sounds interesting for your conference!
+There’s a shift happening in how mobile apps are built—again. While a few years ago we moved from languages created in the 1980s and ʼ90s (think Objective-C and Java) toward more modern and expressive programming languages (Swift and Kotlin), we’re now seeing the transition from imperative to declarative UI frameworks in the form of SwiftUI and Jetpack Compose. This once again promises to dramatically increase developer productivity.
+To understand declarative UI’s present potential, it helps to start by exploring its not-too-distant past. Along the way, we’ll look at how it’s empowering developers to build apps faster with less code, and why now is the right time to consider adopting SwiftUI and Jetpack Compose.
 
 ### SwiftUI In Production
 
