@@ -5,8 +5,6 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Remote | May 27th, 2021 | mDevMeet 2021
-Remote | June 28 - July 1st | WeAreDevelopers World Congress 2021
 Hamburg | October 28 - 29, 2021 | code.talks Hamburg
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
@@ -21,10 +19,12 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2021
 
-### Mobile at a Crossroads: The Declarative UI App Revolution (WIP)
+### Mobile at a Crossroads: The Declarative UI App Revolution
 
 There’s a shift happening in how mobile apps are built—again. While a few years ago we moved from languages created in the 1980s and ʼ90s (think Objective-C and Java) toward more modern and expressive programming languages (Swift and Kotlin), we’re now seeing the transition from imperative to declarative UI frameworks in the form of SwiftUI and Jetpack Compose. This once again promises to dramatically increase developer productivity.
 To understand declarative UI’s present potential, it helps to start by exploring its not-too-distant past. Along the way, we’ll look at how it’s empowering developers to build apps faster with less code, and why now is the right time to consider adopting SwiftUI and Jetpack Compose.
+
+This talk was first presented at [WeAreDevelopers World Congress 2021](https://app.swapcard.com/widget/event/wearedevelopers-world-congress/planning/UGxhbm5pbmdfNTU2ODkw) [slides](https://speakerdeck.com/steipete/mobile-at-a-crossroads-the-declarative-ui-app-revolution)
 
 ### SwiftUI In Production
 
@@ -169,6 +169,8 @@ Location | Date | Conference
 Singapore (Remote) | Jan 20-21 2021 | iOS Conf SG [slides](https://speakerdeck.com/steipete/continuous-integration-for-the-rest-of-us) [video](https://vimeo.com/503127515)
 Remote | April 16 2021 | Swift Heroes Digital 2021
 Remote | April 29, 2021 | WeAreDevelopers Live – iOS Developer Day
+Remote | May 27th, 2021 | mDevMeet 2021
+Remote | June 28 - July 1st | WeAreDevelopers World Congress 2021
 
 #### 2020
 
