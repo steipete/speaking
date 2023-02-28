@@ -1,11 +1,11 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com).
 
-## Upcoming Talks and Interviews in 2021
+## Upcoming Talks and Interviews in 2023
 
 Location | Date | Conference
 ---------|------|------------
-Hamburg | October 28 - 29, 2021 | code.talks Hamburg
+Chicago | April 30 - May 2nd, 2023 | Deep Dish Swift
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -16,6 +16,10 @@ Hamburg | October 28 - 29, 2021 | code.talks Hamburg
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
+
+### Topics 2023
+
+After a longer sabbatical I'm working on new topics. Stay tuned.
 
 ### Topics 2021
 
@@ -247,8 +251,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Bio
 
->Peter founded and bootstrapped PSPDFKit in 2011 and since then grew the company to 50 employees, with the goal of providing the highest quality PDF framework for all platforms. He stepped down as CEO in late 2019 and moved to a research role to focus on new products and technologies. His latest mission was becoming an expert in Apple's SwiftUI. 
-> Peter has worked with iOS since the inception of the iPhone, and is regularly invited to speak at conferences around the world. He also organizes [Cocoaheads](https://twitter.com/cocoaheads_at), a meetup for developers that work with Apple platforms. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology.
+>Peter worked with iOS since the inception of the iPhone and is an experienced speaker both on highly technical and management topics. He bootstrapped PSPDFKit in 2011 and made a successful exit in 2021. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology. After a longer sabbatical, he's now looking for a new challenge.
 
 ### Slides
 
