@@ -181,7 +181,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
-Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift
+Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift [slides](https://speakerdeck.com/steipete/there-and-back-again)
 
 
 #### 2021
