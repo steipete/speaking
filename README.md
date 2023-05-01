@@ -5,7 +5,6 @@ I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twit
 
 Location | Date | Conference
 ---------|------|------------
-Chicago | April 30 - May 2nd, 2023 | Deep Dish Swift
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -19,7 +18,19 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2023
 
-After a longer sabbatical I'm working on new topics. Stay tuned.
+### There and Back Again
+
+Description from [Daniel Saidi, one of the attendees](https://danielsaidi.com/blog/2023/05/01/deep-dish-swift-day-2): 
+
+Peter from PSPDFKit talked about how he sold his company, and how the last two years have been the hardest of his life. Starting his first app out of rage, and later his first company, Peter founded PSPDFKit, which over time has turned into a pretty big thing.
+
+This talk was not a success story of formula 1A talk, rather the opposite. It was a many-faceted, rich and deeply touching description about what it’s like to start a company, reach success and start to grow, then feeling the loss of control as more people are brought in, having to battle with separating your identity from your company and product, conflicts, burning out etc. Eventually, selling the thing you’ve identified with for so long can have some nasty surprises up its sleeve. Who are you when you sell a large part of who you consider yourself to be? Who are you in that deep void, when you have no sense of purpose?
+
+This talk went deep and dark, but ended with rich insights on how to find yourself after such a journey.
+
+I loved it.
+
+["Super thoughtful and thought-provoking keynote"](https://twitter.com/gabrielsavit/status/1653054878430765056?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Company success, beating health issues, experience burnout, selling his company, feeling lost - the hedonic treadmill"](https://twitter.com/suziebytes/status/1653043648815067138?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Wow @steipete just mentioned Three20 and ASIHTTPRequest. I don’t think anyone has said anything that has given me so much nostalgia as an iOS developer"](https://twitter.com/zhbrass/status/1653039159475425280?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Peter’s deeply personal talk I can relate with in many ways having done a few cycles of burnout and depression over the years."](https://twitter.com/mccarron/status/1653047717696815107?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Really enjoyed @steipete’s personal talk at @DeepDishSwift! 🫶"](https://twitter.com/simonbs/status/1653047239391035392?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["⁦In @DeepDishSwift opening keynote ⁩ ⁦@steipete⁩ shares emotional journey of founding ⁦@PSPDFKit⁩ and eventual exit #inspiring #powerful"](https://twitter.com/sunfishgurl/status/1653042228951134209?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["We have @steipete giving an amazing keynote 🥰"](https://twitter.com/deepdishswift/status/1653038816595156992?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["We have @steipete giving our opening keynote. He’s been an idol of mine for so long and it’s super surreal and amazing being able to introduce him as our keynote speaker 🥰"](https://twitter.com/joshdholtz/status/1653038178826170370?s=61&t=IrSUBSFexGEzYYNfMAHtFw)
 
 ### Topics 2021
 
@@ -165,6 +176,13 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 ### Past Talks
+
+#### 2023
+
+Location | Date | Conference
+---------|------|------------
+Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift
+
 
 #### 2021
 
