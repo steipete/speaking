@@ -1,7 +1,7 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com).
 
-## Upcoming Talks and Interviews in 2023
+## Upcoming Talks and Interviews in 2024
 
 Location | Date | Conference
 ---------|------|------------
@@ -16,9 +16,13 @@ Location | Date | Conference
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
 
-### Topics 2023
+### Topics 2024
 
 ### There and Back Again
+
+This talk was originally written for Deep Dish Swift 2023. I also gave a (majorly) modified version of this talk at iOS Conf SG 2024 in Singapore.
+
+[video](https://www.youtube.com/watch?v=9Yiqa8u3DaY)
 
 Description from [Daniel Saidi, one of the attendees](https://danielsaidi.com/blog/2023/05/01/deep-dish-swift-day-2): 
 
@@ -32,7 +36,11 @@ I loved it.
 
 "PJ: Thanks so much Peter Steinberger for sharing your journey and being so candid! Wasn’t expecting to tear up at a tech conference, but here we are :pray:" (via Slack), Nick Hayward: "Excellent talk!", Patrick McCarron: "Thanks so much as someone who has struggled with burn out and depression over the years I loved the additional tips and tools to look into to learn even more about the why it happened.", ["Super thoughtful and thought-provoking keynote"](https://twitter.com/gabrielsavit/status/1653054878430765056?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Company success, beating health issues, experience burnout, selling his company, feeling lost - the hedonic treadmill"](https://twitter.com/suziebytes/status/1653043648815067138?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Wow @steipete just mentioned Three20 and ASIHTTPRequest. I don’t think anyone has said anything that has given me so much nostalgia as an iOS developer"](https://twitter.com/zhbrass/status/1653039159475425280?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Peter’s deeply personal talk I can relate with in many ways having done a few cycles of burnout and depression over the years."](https://twitter.com/mccarron/status/1653047717696815107?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["Really enjoyed @steipete’s personal talk at @DeepDishSwift! 🫶"](https://twitter.com/simonbs/status/1653047239391035392?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["⁦In @DeepDishSwift opening keynote ⁩ ⁦@steipete⁩ shares emotional journey of founding ⁦@PSPDFKit⁩ and eventual exit #inspiring #powerful"](https://twitter.com/sunfishgurl/status/1653042228951134209?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["We have @steipete giving an amazing keynote 🥰"](https://twitter.com/deepdishswift/status/1653038816595156992?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["We have @steipete giving our opening keynote. He’s been an idol of mine for so long and it’s super surreal and amazing being able to introduce him as our keynote speaker 🥰"](https://twitter.com/joshdholtz/status/1653038178826170370?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["I loved your keynote. So many relatable feelings. Thank you for sharing your story. May you continue to find healing and happiness, Peter. 💚"](https://mastodon.social/@theevo@iosdev.space/110294245227034126), ["This morning’s keynote by @steipete at #DeepDishSwift was easily it’s equal for me: every indie app developer should stop periodically to think about who they are without their work, otherwise they’ll eventually find themselves starting from scratch and regretting time lost. Thank you @steipete for being so honest and open about your journey."](https://mastodon.social/@ambulephabus/110294225181372735), ["Amazing talk!! 😍"](https://mastodon.social/@mikaelacaron@swiftdevs.space/110294205543574909), [“We’re carrying these time wasting boxes in our pockets”](https://mastodon.social/@is@hachyderm.io/110293946932952694), ["Some very powerful storytelling from @steipete during the #DeepDishSwift keynote; excellent behind-the-scenes of the story of him + PSPDFKit on a very personal level."](https://mastodon.social/@dskuza/110293936667845076), ["This was such an inspiring talk. @steipete  displayed such vulnerability and discussed some really hard topics. Self-care is so important, and money can only make you so happy."](https://mastodon.social/@bens@mastodon.xyz/110295055759334087), ["Peter your talk was awesome, vulnerable, and so inspiring to listen to! Thank you for it!"](https://twitter.com/m0rgabyte/status/1653121221645434881?s=61&t=IrSUBSFexGEzYYNfMAHtFw), ["This was really, really excellent. Thanks for putting yourself out there and talking about some tough stuff."](https://mastodon.social/@designatednerd/110295591142793512), ["This is a talk I’m going to remember for forever 🫶"](https://twitter.com/joshdholtz/status/1653156623127281664), ["It was a great talk - thanks for sharing. Really landed with me. Everybody I’ve spoken to today have commented on how your talk resonated with them.  ❤️"](https://twitter.com/StartingSwift_/status/1653158596677337090)
 
-### Topics 2021
+I also gave a modified version of this talk at iOS Conf SG 2024 in Singapore:
+
+["touching talk by @steipete, it takes a lot to be so honest and open about you publicly, hats off 👏🏻"](https://twitter.com/Lascorbe/status/1754853959095754857), ["What an amazing talk! Thank you for sharing @steipete 🙇‍♂️"](https://twitter.com/ekurutepe/status/1754874814752227827), ["One of the best talk for sure, and considering the fact that we less likely ever talk about the our mental awareness and creating time for self-care to slow down from the daily hassle."](https://twitter.com/sharke12/status/1755130836536713433), ["Very touching indeed. Very inspiring as well. Thank you for being so transparent @steipete, it will definitely help many people who are listening to it!"](https://twitter.com/filipealva/status/1754880025390629329), ["We need more talks like this one at tech conferences about personal stories, experiences and hurdles. Thanks for sharing your story @steipete"](https://twitter.com/javalnanda/status/1754830883092144296), ["I had a chance to talk with @steipete and it was my pleasure to have a lot of good tips from him, and I would strongly suggest to watch his talk."](https://twitter.com/emadgnia/status/1754939473157062808)
+
+### Earlier Topics
 
 ### Mobile at a Crossroads: The Declarative UI App Revolution
 
@@ -177,11 +185,12 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 ### Past Talks
 
-#### 2023
+#### 2023 & 2024
 
 Location | Date | Conference
 ---------|------|------------
-Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift [slides](https://speakerdeck.com/steipete/there-and-back-again) (reach out for the video, private talk)
+Singapore | Jan 18 - 19, 2024 | Closing Keynote @ iOS Conf SG [slides](https://speakerdeck.com/steipete/there-and-back-again) ([video](https://www.youtube.com/watch?v=9Yiqa8u3DaY))
+Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift [slides](https://speakerdeck.com/steipete/there-and-back-again)
 
 
 #### 2021
