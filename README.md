@@ -18,7 +18,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2024
 
-### There and Back Again
+### What Nobody Tells You When Selling Your Business
 
 This talk was originally written for Deep Dish Swift 2023. I also gave a (majorly) modified version of this talk at iOS Conf SG 2024 in Singapore.
 
@@ -190,7 +190,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
-Singapore | Jan 18 - 19, 2024 | Closing Keynote @ iOS Conf SG [slides](https://speakerdeck.com/steipete/there-and-back-again) ([video](https://www.youtube.com/watch?v=9Yiqa8u3DaY))
+Singapore | Jan 18 - 19, 2024 | Closing Keynote @ iOS Conf SG [slides](https://speakerdeck.com/steipete/what-nobody-tells-you-when-selling-your-business) ([video](https://www.youtube.com/watch?v=9Yiqa8u3DaY))
 Chicago | April 30 - May 2nd, 2023 | Keynote @ Deep Dish Swift [slides](https://speakerdeck.com/steipete/there-and-back-again)
 
 
