@@ -1,7 +1,9 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com).
 
-## Upcoming Talks and Interviews in 2024
+## Upcoming Talks and Interviews in 2025
+
+I'm back in the game and looking for new opportunities to share my passion for programming and software development.
 
 Location | Date | Conference
 ---------|------|------------
