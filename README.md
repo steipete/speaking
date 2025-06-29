@@ -311,6 +311,8 @@ More Pictures see the pitures folder in this repo.
 
 ### Podcasts
 
+* Trending Topics: [Apple AI Fail Inside - Sonderfolge](https://www.trendingtopics.eu/apple-ai-fail-inside-sonderfolge/) (2025)
+
 * Semaphore CI: [Peter Steinberger on his startup journey, quirks of PDF and what’s exciting about WWDC19](https://www.youtube.com/watch?v=tcZPdMKz9xQ) (May 29, 2019)
 * The raywenderlich.com Podcast: [Peter Steinberger – Podcast S09 E03](https://www.raywenderlich.com/3249277-peter-steinberger-podcast-s09-e03) (May 15, 2019)
 * Swift by Sundell Podcast: ["Long-term code evolution"](https://pspdfkit.com/blog/2018/swift-by-sundell-podcast/)
