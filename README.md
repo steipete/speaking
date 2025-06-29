@@ -1,5 +1,5 @@
 # Speaking
-I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com).
+I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com). Visit my website at [steipete.me](https://steipete.me).
 
 ## Upcoming Talks and Interviews in 2025
 
@@ -7,6 +7,8 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
+Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
+Bologna, Italy | Oct 9-10, 2025 | [#PragmaConf](https://pragmaconference.com/)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -16,9 +18,15 @@ Location | Date | Conference
 
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
-Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I direct the day-to-day work as CEO of [PSPDFKit](https://pspdfkit.com) and also share knowledge on our [company blog](https://pspdfkit.com/blog/all/).
+Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I'm a full-time Open Source builder working on exciting AI-powered projects. Visit [steipete.me](https://steipete.me) to learn more about my work.
 
-### Topics 2024
+### Topics 2025
+
+### You Can Just Do Things
+
+This is a new talk I'm working on. If you're following me on Twitter/Mastodon, you'll know that I'm fully back and knee-deep in AI, using agents to basically build whatever I always wanted to build. This talk is gonna be a mix of practical tips and inspirational thoughts, explaining this incredible shift that's currently happening. AI is gonna change the world, and it's starting with software development. It's exciting and it's scary. If you lose your job or not, is up to you.
+
+### Earlier Topics
 
 ### What Nobody Tells You When Selling Your Business
 
@@ -281,7 +289,7 @@ https://vimeopro.com/steipete/conference-talks-peter-steinberger
 
 ### Bio
 
->Peter worked with iOS since the inception of the iPhone and is an experienced speaker both on highly technical and management topics. He bootstrapped PSPDFKit in 2011 and made a successful exit in 2021. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology. After a longer sabbatical, he's now looking for a new challenge.
+>Peter worked with iOS since the inception of the iPhone and is an experienced speaker both on highly technical and management topics. He bootstrapped PSPDFKit in 2011 and made a successful exit in 2021. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology. After a sabbatical, he's now a full-time Open Source builder, leveraging AI to create innovative solutions and sharing his journey at [steipete.me](https://steipete.me).
 
 ### Slides
 
