@@ -8,7 +8,7 @@ I'm back in the game and looking for new opportunities to share my passion for p
 Location | Date | Conference
 ---------|------|------------
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
-India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
+Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Bologna, Italy | Oct 9-10, 2025 | [#PragmaConf](https://pragmaconference.com/)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
