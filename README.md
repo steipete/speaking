@@ -7,10 +7,10 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
-Berlin, Germany | Jan 20, 2025 | Agentic Software Engineering Conference (ASEC)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Bologna, Italy | Oct 9-10, 2025 | [#PragmaConf](https://pragmaconference.com/)
+Berlin, Germany | Jan 20, 2026 | Agentic Software Engineering Conference (ASEC)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
