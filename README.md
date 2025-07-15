@@ -1,12 +1,13 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com). Visit my website at [steipete.me](https://steipete.me).
 
-## Upcoming Talks and Interviews in 2025+
+## Upcoming Conferences & Meetups in 2025+
 
 I'm back in the game and looking for new opportunities to share my passion for programming and software development.
 
 Location | Date | Conference
 ---------|------|------------
+Berlin, Germany | Aug 12, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://lu.ma/33ghwjqt)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Bologna, Italy | Oct 9-10, 2025 | [#PragmaConf](https://pragmaconference.com/)
