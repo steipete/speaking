@@ -12,7 +12,7 @@ Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://l
 Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
-Bologna, Italy | Oct 9-10, 2025 | [#PragmaConf](https://pragmaconference.com/)
+Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
