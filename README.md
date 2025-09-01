@@ -12,6 +12,7 @@ Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://l
 Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
+Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/)
 Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
