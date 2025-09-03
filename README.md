@@ -10,9 +10,14 @@ Location | Date | Conference
 London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)
 Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://lu.ma/33ghwjqt)
 Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
+Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
+Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/)
+Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
+San Francisco, CA | Oct 21 or 27, 2025 (TBD) | Claude Code Anonymous, SF Edition
+San Francisco, CA | Oct 23, 2025 | [Acquired x Sentry](https://luma.com/acquired-and-sentry?tk=zaAq2Z) (Private Event)
 Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
