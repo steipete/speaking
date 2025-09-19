@@ -12,7 +12,6 @@ Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://l
 Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
 Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
 Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
-Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/)
 Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
@@ -33,9 +32,17 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 ### Topics 2025
 
-### You Can Just Do Things
+### You Can Just Do Things: How AI Is Transforming Software Development
 
-This is a new talk I'm working on. If you're following me on Twitter/Mastodon, you'll know that I'm fully back and knee-deep in AI, using agents to basically build whatever I always wanted to build. This talk is gonna be a mix of practical tips and inspirational thoughts, explaining this incredible shift that's currently happening. AI is gonna change the world, and it's starting with software development. It's exciting and it's scary. If you lose your job or not, is up to you.
+**Short Abstract:** The software industry has reached an inflection point with AI tools achieving a breakthrough in 2025. This talk explores how "agentic engineering" fundamentally changes how we build software, shifting from writing code to orchestrating intelligent agents that can build almost anything.
+
+**Long Abstract:** In April 2025, something remarkable happened in software development. After years of incremental improvements, AI coding assistants suddenly became good enough to build production software. This talk shares a personal journey from burnout to rediscovering the joy of creation through AI-powered development.
+
+We'll explore how the convergence of raw model intelligence, sophisticated tool use, and agent frameworks created a tipping point that transforms developers from violinists into orchestra conductors. You'll learn why "vibe coding" evolved into "agentic engineering," how to leverage tools like Claude Code and Codex effectively, and why languages are becoming implementation details in this new paradigm.
+
+Through real examples of building complex applications with 99% AI-generated code, we'll examine what it means to be a "full-breadth developer" in 2025 - someone who combines technical expertise with product vision to build software at unprecedented speed. The talk addresses common misconceptions, shares practical workflows for parallel agent orchestration, and explains why simple code beats clever solutions when working with AI.
+
+Whether you're skeptical or curious about AI's role in development, this talk provides an honest, practical perspective on adapting to a world where you can truly "just do things" - building software that would have taken weeks in just hours or days.
 
 ### Earlier Topics
 
@@ -206,6 +213,12 @@ The talk is based on lessons learned while building PSPDFKit for iOS since 2010,
 How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slides](https://speakerdeck.com/steipete/effective-remote-communication-how-to-run-a-distributed-company))
 
 ### Past Talks
+
+#### 2025
+
+Location | Date | Conference
+---------|------|------------
+Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development
 
 #### 2023 & 2024
 
