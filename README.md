@@ -7,11 +7,6 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
-London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)
-Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://lu.ma/33ghwjqt)
-Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
-Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
-Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/)
 Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
@@ -219,6 +214,11 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 Location | Date | Conference
 ---------|------|------------
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development
+Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
+Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
+Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
+Berlin, Germany | Aug 19, 2025 | [Ship It Club Berlin: Kickoff Meetup](https://lu.ma/33ghwjqt)
+London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)
 
 #### 2023 & 2024
 
