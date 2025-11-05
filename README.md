@@ -213,6 +213,7 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/) - You Can Just Do Things: How AI Is Transforming Software Development ([video](https://www.youtube.com/watch?v=z2IDQbNOS5s))
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development
 Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
 Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
