@@ -14,6 +14,8 @@ San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition
 San Francisco, CA | Oct 23, 2025 | [Acquired x Sentry](https://luma.com/acquired-and-sentry?tk=zaAq2Z) (Private Event)
 Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
+San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
+Hamburg, Germany | May 6, 2026 | [OMR Festival](https://omr.com/en/)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
