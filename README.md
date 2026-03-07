@@ -1,18 +1,12 @@
 # Speaking
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com). Visit my website at [steipete.me](https://steipete.me).
 
-## Upcoming Conferences & Meetups in 2025+
+## Upcoming Conferences & Meetups in 2026+
 
 I'm back in the game and looking for new opportunities to share my passion for programming and software development.
 
 Location | Date | Conference
 ---------|------|------------
-Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
-Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/)
-Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
-San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition
-San Francisco, CA | Oct 23, 2025 | [Acquired x Sentry](https://luma.com/acquired-and-sentry?tk=zaAq2Z) (Private Event)
-Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
@@ -216,7 +210,12 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
+San Francisco, CA | Oct 23, 2025 | [Acquired x Sentry](https://luma.com/acquired-and-sentry?tk=zaAq2Z) (Private Event)
+San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition
+Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
 Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/) - You Can Just Do Things: How AI Is Transforming Software Development ([video](https://www.youtube.com/watch?v=z2IDQbNOS5s))
+Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
 Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development
 Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
 Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
