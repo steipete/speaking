@@ -8,9 +8,12 @@ I'm back in the game and looking for new opportunities to share my passion for p
 Location | Date | Conference
 ---------|------|------------
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
+London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
 Hamburg, Germany | May 6, 2026 | [OMR Festival](https://omr.com/en/)
 San Francisco, CA | June 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
+Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026)
+Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
