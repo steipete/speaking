@@ -7,6 +7,7 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
+San Francisco Bay, CA | Jun 14, 2026 | [BuilderShip](https://ship.builders) (Yacht hackathon · Special Guest & Judge invitation pending)
 Paris, France | Jun 16, 2026 | OpenAI France Event
 Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
 San Francisco, CA | Jul 25-26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
