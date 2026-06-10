@@ -213,7 +213,6 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 Location | Date | Conference
 ---------|------|------------
 San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
-Hamburg, Germany | May 6, 2026 | [OMR Festival](https://omr.com/en/)
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
 London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
