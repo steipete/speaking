@@ -7,12 +7,11 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
-San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
-London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
-Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
-Hamburg, Germany | May 6, 2026 | [OMR Festival](https://omr.com/en/)
-San Francisco, CA | June 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
+Paris, France | Jun 16, 2026 | OpenAI France Event
+Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
+San Francisco, CA | Jul 25-26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
 Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026)
+San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cloudflare.com/connect/)
 Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
@@ -213,6 +212,11 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
+Hamburg, Germany | May 6, 2026 | [OMR Festival](https://omr.com/en/)
+Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
+London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
+San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
 #### 2025
