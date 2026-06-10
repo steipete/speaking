@@ -212,7 +212,10 @@ How to Run a Distributed Company. ([video](https://vimeo.com/235530912) | [slide
 
 Location | Date | Conference
 ---------|------|------------
+San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
+San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - Opening Luminary Talk
 San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
+Remote | May 6, 2026 | GitHub Maintainer Summit - Fireside Chat
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
 London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
