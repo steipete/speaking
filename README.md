@@ -7,8 +7,6 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
-Paris, France | Jun 16, 2026 | OpenAI France Event
-Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
 San Francisco, CA | Jul 25-26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
 Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026)
 San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cloudflare.com/connect/)
@@ -46,6 +44,8 @@ Whether you're skeptical or curious about AI's role in development, this talk pr
 
 Location | Date | Conference
 ---------|------|------------
+Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
+Paris, France | Jun 16, 2026 | OpenAI France Event
 San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
 San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - Opening Luminary Talk
 San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
