@@ -90,7 +90,7 @@ London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)
 
 ### Pictures
 
-More Pictures see the pitures folder in this repo.
+More Pictures see the Pictures folder in this repo.
 
 [![App Builders 2018 in Lugano, Switzerland](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/appbuilders-2018-1.jpg)](https://www.youtube.com/watch?v=eJ_BdSBxCZk)
 
