@@ -24,7 +24,7 @@ Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
 [![try! Swift  in New York, USA](https://github.com/steipete/speaking/blob/master/Pictures/try-swift-nyc-2018-2-small.jpg?raw=true)](https://speakerdeck.com/steipete/hacking-marzipan)
 
-Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I'm a full-time Open Source builder working on exciting AI-powered projects. Visit [steipete.me](https://steipete.me) to learn more about my work.
+Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I'm the creator of [OpenClaw](https://github.com/openclaw/openclaw) and work at OpenAI on bringing agents to everyone. Visit [steipete.me](https://steipete.me) to learn more about my work.
 
 ### Topics 2025
 
@@ -95,7 +95,19 @@ London, UK | Aug 18, 2025 | Claude Code Anonymous (Invite Only)
 
 ### Bio
 
->Peter worked with iOS since the inception of the iPhone and is an experienced speaker both on highly technical and management topics. He bootstrapped PSPDFKit in 2011 and made a successful exit in 2021. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology. After a sabbatical, he's now a full-time Open Source builder, leveraging AI to create innovative solutions and sharing his journey at [steipete.me](https://steipete.me).
+Organizers: pick whichever fits — long for keynote programs, short for speaker grids, spicy if your event has a sense of humor.
+
+#### Long
+
+>Peter Steinberger is the creator of OpenClaw, the open-source personal AI agent that became GitHub's most-starred software project and earned GitHub's award for the fastest-growing open-source project of 2026. OpenClaw is stewarded by the independent OpenClaw Foundation; since February 2026, Peter is at OpenAI, working on bringing agents to everyone. Previously he bootstrapped PSPDFKit (now Nutrient) from Vienna to nearly a billion end users and a nine-figure exit — then stepped away, burned out, and found his way back to building through AI, a story he's told on the TED main stage, the Lex Fridman Podcast, and as the opening keynote of AI Engineer World's Fair 2026. He lives in San Francisco and shares his work — plus a few dozen open-source tools — at [steipete.me](https://steipete.me). Next mission: an agent even his mum can use.
+
+#### Short
+
+>Peter Steinberger is the creator of OpenClaw, the open-source personal AI agent that became GitHub's most-starred software project and won GitHub's award for the fastest-growing open-source project of 2026. He's now at OpenAI working on the next generation of personal agents, while the independent OpenClaw Foundation keeps the project open. Previously he bootstrapped PSPDFKit (now Nutrient) to a nine-figure exit. Based in San Francisco; he has spoken at TED, Microsoft Build, and keynoted AI Engineer World's Fair.
+
+#### Spicy
+
+>Peter Steinberger spent 13 years building PSPDFKit, sold it for nine figures, burned out, and retired. Then AI got good. His 44th AI side project — prompted into existence in about an hour — became OpenClaw: GitHub's most-starred software project, its fastest-growing of 2026, and home to one very determined lobster. Now he's at OpenAI building agents for everyone, his mum included, while the OpenClaw Foundation keeps the claw free. He's told the story at TED and on Lex Fridman. The claw is the law. 🦞
 
 ### Slides
 
