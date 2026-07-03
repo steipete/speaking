@@ -48,19 +48,29 @@ Whether you're skeptical or curious about AI's role in development, this talk pr
 
 Location | Date | Conference
 ---------|------|------------
-San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia
+San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
 San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=htM02KMNZnk&t=2898s))
-Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
+San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only)
+Paris, France | Jun 18, 2026 | LVMH Forward Gala - Fireside Chat
+Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/) - The Agentic Enterprise: From Software Development to Everyday Work ([video](https://vivatech.com/sessions/session/d4198606-e65f-f111-8fcb-6045bd954326))
 Paris, France | Jun 16, 2026 | OpenAI France Event
+Lucerne, Switzerland | Jun 15, 2026 | Hg Software Leadership Gathering - Fireside Chat and Q&A (Invite Only)
+Remote | Jun 15, 2026 | Atlassian AI Builders Week - The AI Teamwork Shift
 San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
-San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - Opening Luminary Talk
+San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - The Future of Software in the Wake of OpenClaw ([video](https://www.snowflake.com/en/dev-day/americas-virtual/))
 San Francisco, CA | Jun 3, 2026 | [OpenClaw: After Hours at GitHub](https://luma.com/OpenClaw-GitHub) - Fireside Chat ([video](https://www.youtube.com/watch?v=K-pnIgkDxSc))
 San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/) - Build the Thing That Builds the Thing ([video](https://www.youtube.com/watch?v=o5IQMijn-Ks)); OpenClaw + Windows ([video](https://www.youtube.com/watch?v=J7ol1VDkg7w))
+Madrid, Spain | May 19, 2026 | Telefónica Developer Talk
+A Coruña, Spain | May 19, 2026 | Inditex Developers Talk
 Remote | May 6, 2026 | GitHub Maintainer Summit - Fireside Chat
+Remote | Apr 16, 2026 | [University of Michigan ClawCon](https://events.umich.edu/event/147364) - Remote Appearance
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026) - How I Created OpenClaw, the Breakthrough AI Agent ([video](https://www.youtube.com/watch?v=7rzYDM6vMtI))
 London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe) - State of the Claw ([video](https://www.youtube.com/watch?v=zgNvts_2TUE))
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) - The Agentic AI Inflection Point ([video](https://www.youtube.com/watch?v=RTmSrIFZanc&t=6596s)) (Invite Only)
-London, UK | Mar 1, 2026 | UK AI Agent Hack at Imperial College London ([video](https://www.youtube.com/watch?v=rnuI_fR6t1Q))
+London, UK | Mar 6, 2026 | OpenClaw Meetup hosted by OpenAI and Sequoia Capital
+London, UK | Mar 1, 2026 | Annual AI Conference at Imperial College London - Keynote and Fireside Chat ([video](https://www.youtube.com/watch?v=rnuI_fR6t1Q))
+Remote | Feb 12, 2026 | OpenClaw Builders Event Amsterdam - Guest Address
+Vienna, Austria | Feb 10, 2026 | [Hail the Crustacean Revolution](https://luma.com/event/evt-ji2TtD8FS9gmBV3) - OpenClaw Meetup and Show & Tell
 Remote | Jan 23, 2026 | GitHub Open Source Friday with OpenClaw ([video](https://www.youtube.com/watch?v=1iCcUjnAIOM))
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
