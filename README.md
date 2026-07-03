@@ -61,6 +61,8 @@ London, UK | Mar 1, 2026 | UK AI Agent Hack at Imperial College London ([video](
 Remote | Jan 23, 2026 | GitHub Open Source Friday with OpenClaw ([video](https://www.youtube.com/watch?v=1iCcUjnAIOM))
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
+![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
+
 #### 2025
 
 Location | Date | Conference
