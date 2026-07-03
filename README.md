@@ -1,4 +1,7 @@
 # Speaking
+
+![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
+
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com). Visit my website at [steipete.me](https://steipete.me).
 
 ## Upcoming Conferences & Meetups in 2026+
@@ -60,8 +63,6 @@ San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/g
 London, UK | Mar 1, 2026 | UK AI Agent Hack at Imperial College London ([video](https://www.youtube.com/watch?v=rnuI_fR6t1Q))
 Remote | Jan 23, 2026 | GitHub Open Source Friday with OpenClaw ([video](https://www.youtube.com/watch?v=1iCcUjnAIOM))
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
-
-![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
 
 #### 2025
 
