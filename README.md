@@ -11,6 +11,7 @@ San Francisco, CA | Jul 25-26, 2026 | [YC Startup School](https://events.ycombin
 Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026)
 San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cloudflare.com/connect/)
 Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
+Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
@@ -44,28 +45,33 @@ Whether you're skeptical or curious about AI's role in development, this talk pr
 
 Location | Date | Conference
 ---------|------|------------
+San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia
+San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=htM02KMNZnk&t=2898s))
 Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/)
 Paris, France | Jun 16, 2026 | OpenAI France Event
 San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
 San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - Opening Luminary Talk
-San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/)
+San Francisco, CA | Jun 3, 2026 | [OpenClaw: After Hours at GitHub](https://luma.com/OpenClaw-GitHub) - Fireside Chat ([video](https://www.youtube.com/watch?v=K-pnIgkDxSc))
+San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/) - Build the Thing That Builds the Thing ([video](https://www.youtube.com/watch?v=o5IQMijn-Ks)); OpenClaw + Windows ([video](https://www.youtube.com/watch?v=J7ol1VDkg7w))
 Remote | May 6, 2026 | GitHub Maintainer Summit - Fireside Chat
-Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026)
-London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe)
-San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) (Invite Only)
+Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026) - How I Created OpenClaw, the Breakthrough AI Agent ([video](https://www.youtube.com/watch?v=7rzYDM6vMtI))
+London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe) - State of the Claw ([video](https://www.youtube.com/watch?v=zgNvts_2TUE))
+San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) - The Agentic AI Inflection Point ([video](https://www.youtube.com/watch?v=RTmSrIFZanc&t=6596s)) (Invite Only)
+London, UK | Mar 1, 2026 | UK AI Agent Hack at Imperial College London ([video](https://www.youtube.com/watch?v=rnuI_fR6t1Q))
+Remote | Jan 23, 2026 | GitHub Open Source Friday with OpenClaw ([video](https://www.youtube.com/watch?v=1iCcUjnAIOM))
 Berlin, Germany | Jan 14, 2026 | [CASE Conference](https://www.case-conf.com/) (Conference on Agentic Software Engineering)
 
 #### 2025
 
 Location | Date | Conference
 ---------|------|------------
-Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/)
+Bologna, Italy | Oct 30-31, 2025 | [#PragmaConf](https://pragmaconference.com/) - You Can Just Do Things: How AI Is Transforming Software Development ([video](https://www.youtube.com/watch?v=muh8ooHd7yU))
 San Francisco, CA | Oct 23, 2025 | [Acquired x Sentry](https://luma.com/acquired-and-sentry?tk=zaAq2Z) (Private Event)
 San Francisco, CA | Oct 21, 2025 | Claude Code Anonymous, SF Edition
 Prague, Czech Republic | Oct 9 or 16, 2025 (TBD) | Claude Code Anonymous, Prague Edition
 Paris, France | Oct 6-7, 2025 | [Swift Connection](https://swiftconnection.io/) - You Can Just Do Things: How AI Is Transforming Software Development ([video](https://www.youtube.com/watch?v=z2IDQbNOS5s))
 Bangalore, India | Sept 26-27, 2025 | [Swift Bharat](https://www.swiftbharat.org/)
-Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development
+Logroño, Spain | Sept 17-19, 2025 | [NSSpain](https://2025.nsspain.com/) - You Can Just Do Things: How AI Is Transforming Software Development ([video](https://www.youtube.com/watch?v=NjW7lxtZwIM))
 Vienna, Austria | Sept 11, 2025 | [Claude Code Anonymous, Vienna Chapter](https://luma.com/q50cmcb2)
 Berlin, Germany | Sept 10, 2025 | [Claude Code Anonymous - Berlin Edition](https://luma.com/5lizqnpz)
 Vienna, Austria | Aug 27, 2025 | [Tech Soirée Vienna](https://lu.ma/vienna-tech-soiree?tk=4RVBXm) (Panel on Global GTM for Dev Products)
