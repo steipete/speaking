@@ -1,7 +1,5 @@
 # Speaking
 
-![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
-
 I love teaching, sharing knowledge and speaking at conferences. Ping me on [Twitter](http://twitter.com/steipete) or via [Email](mailto:steipete+speaking@gmail.com). Visit my website at [steipete.me](https://steipete.me).
 
 ## Upcoming Conferences & Meetups in 2026+
@@ -15,6 +13,8 @@ Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/even
 San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cloudflare.com/connect/)
 Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
 Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
+
+![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
 
