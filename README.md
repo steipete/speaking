@@ -26,22 +26,6 @@ Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
 Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email (steipete at gmail) if you organize a conference where you'd like me to speak. I'm the creator of [OpenClaw](https://github.com/openclaw/openclaw) and work at OpenAI on bringing agents to everyone. Visit [steipete.me](https://steipete.me) to learn more about my work.
 
-### Topics 2025
-
-### You Can Just Do Things: How AI Is Transforming Software Development
-
-**Short Abstract:** The software industry has reached an inflection point with AI tools achieving a breakthrough in 2025. This talk explores how "agentic engineering" fundamentally changes how we build software, shifting from writing code to orchestrating intelligent agents that can build almost anything.
-
-**Long Abstract:** In April 2025, something remarkable happened in software development. After years of incremental improvements, AI coding assistants suddenly became good enough to build production software. This talk shares a personal journey from burnout to rediscovering the joy of creation through AI-powered development.
-
-We'll explore how the convergence of raw model intelligence, sophisticated tool use, and agent frameworks created a tipping point that transforms developers from violinists into orchestra conductors. You'll learn why "vibe coding" evolved into "agentic engineering," how to leverage tools like Claude Code and Codex effectively, and why languages are becoming implementation details in this new paradigm.
-
-Through real examples of building complex applications with 99% AI-generated code, we'll examine what it means to be a "full-breadth developer" in 2025 - someone who combines technical expertise with product vision to build software at unprecedented speed. The talk addresses common misconceptions, shares practical workflows for parallel agent orchestration, and explains why simple code beats clever solutions when working with AI.
-
-Whether you're skeptical or curious about AI's role in development, this talk provides an honest, practical perspective on adapting to a world where you can truly "just do things" - building software that would have taken weeks in just hours or days.
-
-[Talk descriptions from 2024 and earlier are archived in `ARCHIVE.md`](ARCHIVE.md).
-
 ### Past Talks
 
 #### 2026
@@ -50,7 +34,7 @@ Location | Date | Conference
 ---------|------|------------
 San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
 San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=htM02KMNZnk&t=2898s))
-San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only)
+San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only) ([video](https://x.com/GregKamradt/status/2072692268625023157))
 Paris, France | Jun 18, 2026 | LVMH Forward Gala - Fireside Chat
 Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/) - The Agentic Enterprise: From Software Development to Everyday Work ([video](https://vivatech.com/sessions/session/d4198606-e65f-f111-8fcb-6045bd954326))
 Paris, France | Jun 16, 2026 | OpenAI France Event
