@@ -35,6 +35,7 @@ Location | Date | Conference
 San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
 San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=htM02KMNZnk&t=2898s))
 San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only) ([video](https://x.com/GregKamradt/status/2072692268625023157))
+Remote | Jun 22, 2026 | OpenAI Patch the Planet - Launch Video ([video](https://x.com/OpenAI/status/2069104288417390688))
 Paris, France | Jun 18, 2026 | LVMH Forward Gala - Fireside Chat
 Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/) - The Agentic Enterprise: From Software Development to Everyday Work ([video](https://vivatech.com/sessions/session/d4198606-e65f-f111-8fcb-6045bd954326))
 Paris, France | Jun 16, 2026 | OpenAI France Event
