@@ -39,7 +39,7 @@ Paris, France | Jun 18, 2026 | LVMH Forward Gala - Fireside Chat
 Paris, France | Jun 17-20, 2026 | [VivaTech](https://vivatech.com/) - The Agentic Enterprise: From Software Development to Everyday Work ([video](https://vivatech.com/sessions/session/d4198606-e65f-f111-8fcb-6045bd954326))
 Paris, France | Jun 16, 2026 | OpenAI France Event
 Lucerne, Switzerland | Jun 15, 2026 | Hg Software Leadership Gathering - Fireside Chat and Q&A (Invite Only)
-Remote | Jun 15, 2026 | Atlassian AI Builders Week - The AI Teamwork Shift
+Remote | Jun 15, 2026 | Atlassian AI Builders Week - The AI Teamwork Shift ([sound bite](https://x.com/TYehoshua/status/2067271296338268347))
 San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
 San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - The Future of Software in the Wake of OpenClaw ([video](https://www.snowflake.com/en/dev-day/americas-virtual/))
 San Francisco, CA | Jun 3, 2026 | [OpenClaw: After Hours at GitHub](https://luma.com/OpenClaw-GitHub) - Fireside Chat ([video](https://www.youtube.com/watch?v=K-pnIgkDxSc))
