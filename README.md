@@ -14,6 +14,8 @@ San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cl
 Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
 Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
+![AI Engineer World's Fair 2026 in San Francisco](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/ai-engineer-worlds-fair-2026.jpg)
+
 ![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
 
 ![BA: Swiftable in Buenos Aires](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/baswiftable-1.jpg)
