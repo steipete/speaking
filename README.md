@@ -35,7 +35,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 Location | Date | Conference
 ---------|------|------------
 San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
-San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=htM02KMNZnk&t=2898s))
+San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=pMggiOb18tc), [post](https://x.com/aiDotEngineer/status/2075292855816626495))
 San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only) ([video](https://x.com/GregKamradt/status/2072692268625023157))
 Remote | Jun 22, 2026 | OpenAI Patch the Planet - Launch Video ([video](https://x.com/OpenAI/status/2069104288417390688))
 Paris, France | Jun 18, 2026 | LVMH Forward Gala - Fireside Chat
