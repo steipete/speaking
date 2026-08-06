@@ -8,10 +8,12 @@ I'm back in the game and looking for new opportunities to share my passion for p
 
 Location | Date | Conference
 ---------|------|------------
-San Francisco, CA | Jul 25-26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
-Berkeley, CA | Aug 1-2, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026)
+Menlo Park, CA | Sep 17, 2026 | Silicon Valley Japan Platform - OpenClaw Fireside Chat (Invite Only)
+San Francisco, CA | Oct 5, 2026 | SF Tech Week - Opening Fireside
 San Francisco, CA | Oct 19-22, 2026 | [Cloudflare Global Connect](https://www.cloudflare.com/connect/)
 Vienna, Austria | Oct 28-30, 2026 | [TEDAI Vienna](https://tedai-vienna.ted.com/)
+Munich, Germany | Nov 2, 2026 | XALT Enterprise AI Circle (Invite Only)
+London, UK | Nov 3, 2026 | Prosus Luminate - Fireside Chat
 Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
 ![AI Engineer World's Fair 2026 in San Francisco](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/ai-engineer-worlds-fair-2026.jpg)
@@ -34,6 +36,8 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
+Berkeley, CA | Aug 1, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026) - No Doors for Agents ([video](https://www.youtube.com/watch?v=gKdeLQd_LIQ&t=7885s))
+San Francisco, CA | Jul 26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
 San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
 San Francisco, CA | Jun 30, 2026 | [AI Engineer World's Fair](https://www.ai.engineer/worldsfair/2026) - Opening Keynote: Software Factories ([video](https://www.youtube.com/watch?v=pMggiOb18tc), [post](https://x.com/aiDotEngineer/status/2075292855816626495))
 San Francisco, CA | Jun 25, 2026 | Agentic Engineering + Pizza Demo - Anchor Presentation (Invite Only) ([video](https://x.com/GregKamradt/status/2072692268625023157))
@@ -44,13 +48,13 @@ Paris, France | Jun 16, 2026 | OpenAI France Event
 Lucerne, Switzerland | Jun 15, 2026 | Hg Software Leadership Gathering - Fireside Chat and Q&A (Invite Only)
 Remote | Jun 15, 2026 | Atlassian AI Builders Week - The AI Teamwork Shift ([sound bite](https://x.com/TYehoshua/status/2067271296338268347))
 San Francisco, CA | Jun 9, 2026 | Forge Summit - Keynote: Building the Dark Factory
-San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - The Future of Software in the Wake of OpenClaw ([video](https://www.snowflake.com/en/dev-day/americas-virtual/))
+San Francisco, CA | Jun 4, 2026 | Snowflake Summit Dev Day - The Future of Software in the Wake of OpenClaw ([video](https://www.youtube.com/watch?v=FvqMUE6h2Q4))
 San Francisco, CA | Jun 3, 2026 | [OpenClaw: After Hours at GitHub](https://luma.com/OpenClaw-GitHub) - Fireside Chat ([video](https://www.youtube.com/watch?v=K-pnIgkDxSc))
 San Francisco, CA | Jun 2-3, 2026 | [Microsoft Build](https://build.microsoft.com/) - Build the Thing That Builds the Thing ([video](https://www.youtube.com/watch?v=o5IQMijn-Ks)); OpenClaw + Windows ([video](https://www.youtube.com/watch?v=J7ol1VDkg7w))
 Madrid, Spain | May 19, 2026 | Telefónica Developer Talk
 A Coruña, Spain | May 19, 2026 | Inditex Developers Talk
 Remote | May 6, 2026 | GitHub Maintainer Summit - Fireside Chat
-Remote | Apr 16, 2026 | [University of Michigan ClawCon](https://events.umich.edu/event/147364) - Remote Appearance
+Remote | Apr 16, 2026 | [University of Michigan ClawCon](https://events.umich.edu/event/147364) - Fireside Chat with Dave Morin ([video](https://www.youtube.com/watch?v=RVZYKtOeYl0))
 Vancouver, BC, Canada | Apr 13-17, 2026 | [TED2026](https://conferences.ted.com/ted2026) - How I Created OpenClaw, the Breakthrough AI Agent ([video](https://www.youtube.com/watch?v=7rzYDM6vMtI))
 London, UK | Apr 8-10, 2026 | [AI Engineer Europe](https://www.ai.engineer/europe) - State of the Claw ([video](https://www.youtube.com/watch?v=zgNvts_2TUE))
 San Jose, CA | Mar 16, 2026 | [NVIDIA GTC Live Pregame](https://www.nvidia.com/gtc/pregame/) - The Agentic AI Inflection Point ([video](https://www.youtube.com/watch?v=RTmSrIFZanc&t=6596s)) (Invite Only)
