@@ -16,6 +16,15 @@ Munich, Germany | Nov 2, 2026 | XALT Enterprise AI Circle (Invite Only)
 London, UK | Nov 3, 2026 | Prosus Luminate - Fireside Chat
 Santa Monica, CA | Mar 10-12, 2027 | a16z Runtime (Invite Only)
 
+![OpenAI DevDay 2026 in San Francisco](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/openai-devday-2026-1.jpg)
+
+![OpenAI DevDay 2026 in San Francisco](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/openai-devday-2026-2.jpg)
+
+<p>
+  <img src="https://raw.githubusercontent.com/steipete/speaking/master/Pictures/openai-devday-2026-3.jpg" alt="OpenAI DevDay 2026 in San Francisco" height="420">
+  <img src="https://raw.githubusercontent.com/steipete/speaking/master/Pictures/openai-devday-2026-4.jpg" alt="OpenAI DevDay 2026 in San Francisco" height="420">
+</p>
+
 ![AI Engineer World's Fair 2026 in San Francisco](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/ai-engineer-worlds-fair-2026.jpg)
 
 ![VivaTech 2026 in Paris](https://raw.githubusercontent.com/steipete/speaking/master/Pictures/vivatech-2026.jpg)
@@ -36,6 +45,7 @@ Ping [@steipete](https://twitter.com/steipete) on Twitter or reach out via email
 
 Location | Date | Conference
 ---------|------|------------
+San Francisco, CA | Sep 29, 2026 | [OpenAI DevDay](https://openai.com/devday/)
 Berkeley, CA | Aug 1, 2026 | [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit-2026) - No Doors for Agents ([video](https://www.youtube.com/watch?v=gKdeLQd_LIQ&t=7885s))
 San Francisco, CA | Jul 26, 2026 | [YC Startup School](https://events.ycombinator.com/startup-school-2026)
 San Francisco, CA | Jul 1, 2026 | [AI Engineer After Hours](https://luma.com/warp-5xsy) - Crafting Software Factories with Warp and Sequoia ([video](https://youtu.be/Kl8ha1IkjrY))
